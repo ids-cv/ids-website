@@ -1,0 +1,30 @@
+{{ $ := .root }}
+{{ $page := .page }}
+{{ $autolink := default true $page.Params.autolink }}
+{{ $data := site.Params }}
+
+{{ $addr_formatted := "" }}{{/* Scoping for maps. */}}
+{{ if $data.address.street | or $data.address.city | or $data.address.region | or $data.address.postcode | or $data.address.country }}
+{{ $addr_formatted = partial "functions/get_address" (dict "root" . "address" $data.address) }}
+{{ end }}
+
+<!-- Contact widget -->
+<div class="row contact-widget">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
+    {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
+  </div>
+  <div class="col-12 col-lg-8">
+    {{ if and site.Params.map.engine $data.coordinates.latitude }}
+    <div class="d-none">
+      <input id="map-provider" value="{{ site.Params.map.engine }}">
+      <input id="map-lat" value="{{ $data.coordinates.latitude }}">
+      <input id="map-lng" value="{{ $data.coordinates.longitude }}">
+      <input id="map-dir" value="{{ $addr_formatted }}">
+      <input id="map-zoom" value="{{ site.Params.map.zoom | default "15" }}">
+      <input id="map-api-key" value="{{ site.Params.map.api_key }}">
+    </div>
+    <div id="map"></div>
+    {{ end }}
+  </div>
+</div>

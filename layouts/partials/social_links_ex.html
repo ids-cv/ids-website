@@ -1,0 +1,23 @@
+<ul class="network-icon" aria-hidden="true">
+  {{ range .Params.social }}
+    {{ $pack := or .icon_pack "fas" }}
+    {{ $pack_prefix := $pack }}
+    {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+      {{ $pack_prefix = "fa" }}
+    {{ end }}
+    {{ $str := .str }}
+    {{ $link := .link }}
+    {{ $scheme := (urls.Parse $link).Scheme }}
+    {{ $target := "" }}
+    {{ if not $scheme }}
+      {{ $link = .link | relLangURL }}
+    {{ else if in (slice "http" "https") $scheme }}
+      {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+    {{ end }}
+    <li>
+      {{ if .show_link }}<a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>{{ end }}
+        <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }}"> {{ $str }}</i>
+      {{ if .show_link }}</a>{{ end }}
+    </li>
+  {{end}}
+</ul>
