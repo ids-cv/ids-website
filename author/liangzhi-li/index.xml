@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Liangzhi Li | Institute for Datability Science, Osaka University</title><link>/author/liangzhi-li/</link><atom:link href="/author/liangzhi-li/index.xml" rel="self" type="application/rss+xml"/><description>Liangzhi Li</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 10:05:12 +0900</lastBuildDate><image><url>/media/large.png</url><title>Liangzhi Li</title><link>/author/liangzhi-li/</link></image><item><title>AI Hospital</title><link>/project/ai-hospital/</link><pubDate>Wed, 01 Jul 2020 10:05:12 +0900</pubDate><guid>/project/ai-hospital/</guid><description>&lt;p>Osaka University Medical Hospital has launched
+&lt;a href="https://www.hosp.med.osaka-u.ac.jp/english/departments/ai.html" target="_blank" rel="noopener">Artificical Intelligence Center for Medical Research and Application (AIM)&lt;/a>, which supports physicians, nurses, and all the medical staff collaborating with medical information specialists and data scientists to boost the medical application of AI in daily practices of the hospital.&lt;/p>
+&lt;p>We are collaborating with AIM to provide cutting-edge technologies.&lt;/p>
+&lt;h2 id="ophthalmology-and-ai">Ophthalmology and AI&lt;/h2>
+&lt;p>In ophthalmology or any other departments, vessels in retinal fundus images provide rich information on the cardiovascular system of human bodies. We proposed a state-of-the-art method, coined
+&lt;a href="publication/li-2020-a/">IterNet&lt;/a> for extracting vessels from retinal fundus images as in the (e) in the figure below.&lt;/p>
+&lt;figure >
+&lt;a data-fancybox="" href="/project/ai-hospital/iternet_hu5ea4eead4f7a5d7e4e3c54a3ef2dbf33_96994_2000x2000_fit_q90_lanczos.jpg" >
+&lt;img data-src="/project/ai-hospital/iternet_hu5ea4eead4f7a5d7e4e3c54a3ef2dbf33_96994_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="" width="720" height="380">
+&lt;/a>
+&lt;/figure>
+&lt;p>On top of this technology, we also invented a new method for classifying vessels into artery/vein, which takes a two-step approach: We firstly segment vessels in input images using an IterNet-based method and then classify them into artery/vein with some post-processing.&lt;/p>
+&lt;figure >
+&lt;a data-fancybox="" href="/project/ai-hospital/segmentation_hu6603ce41fa995fbca303679a56d9cb90_58078_2000x2000_fit_q90_lanczos.jpg" >
+&lt;img data-src="/project/ai-hospital/segmentation_hu6603ce41fa995fbca303679a56d9cb90_58078_2000x2000_fit_q90_lanczos.jpg" class="lazyload" alt="" width="720" height="371">
+&lt;/a>
+&lt;/figure></description></item></channel></rss>
