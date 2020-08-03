@@ -37,4 +37,4 @@ jobs:
           FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
           LOCAL_DIR: ./public
           REMOTE_DIR: ${{ secrets.FTP_REMOTE_DIR }}/${{ github.sha }}
-          ARGS: --verbose --continue --dry-run
+          ARGS: --verbose --continue
