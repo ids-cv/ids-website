@@ -5,14 +5,14 @@
   "theme_color": "#2962ff",
   "background_color": "#2962ff",
   "icons": [{
-    "src": "/test/preview/e17f2badfaa26f05e6d577b35eeb867a434bd466/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png",
+    "src": "/test/preview/c1303b61d75385f5d51787e83049009c4f8f467c/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/test/preview/e17f2badfaa26f05e6d577b35eeb867a434bd466/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png",
+    "src": "/test/preview/c1303b61d75385f5d51787e83049009c4f8f467c/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
   "display": "standalone",
-  "start_url": "/test/preview/e17f2badfaa26f05e6d577b35eeb867a434bd466/?utm_source=web_app_manifest"
+  "start_url": "/test/preview/c1303b61d75385f5d51787e83049009c4f8f467c/?utm_source=web_app_manifest"
 }
