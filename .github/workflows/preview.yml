@@ -21,7 +21,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify
+        run: hugo --minify --gc http://www.ids.osaka-u.ac.jp/test/preview/${{ github.sha }}
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
@@ -36,5 +36,5 @@ jobs:
           FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
           FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
           LOCAL_DIR: ./public
-          REMOTE_DIR: ${{ secrets.FTP_REMOTE_DIR }}
+          REMOTE_DIR: ${{ secrets.FTP_REMOTE_DIR }}/${{ github.sha }}
           ARGS: --verbose --continue --dry-run
