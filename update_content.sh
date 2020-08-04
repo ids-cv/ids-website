@@ -1,29 +1,32 @@
 #!/bin/sh
 
-# Copying AIM (islab) members
-SRC_DIR="modules/islab-website/content/en/authors"
-DST_DIR="content/authors"
-DIRS=`find $SRC_DIR -maxdepth 1 -mindepth 1 -type d`
+LANGS=("en" "ja")
+SRC_DIR="modules/islab-website/content"
+DST_DIR="content"
 
-for DIR in $DIRS;
+for LANG in $LANGS;
 do
-    AUTHOR="${DIR##$SRC_DIR/}"
-    if [ $AUTHOR = "admin" ]; then
-        continue
-    fi
+    # Copying AIM (islab) members
+    DIRS=`find $SRC_DIR/$LANG/authors/ -maxdepth 1 -mindepth 1 -type d`
 
-    rsync -a --delete $DIR/ $DST_DIR/$AUTHOR/
-done
+    for DIR in $DIRS;
+    do
+        AUTHOR="${DIR##$SRC_DIR/$LANG/authors/}"
+        if [ $AUTHOR = "admin" ]; then
+            continue
+        fi
 
-# Copying AIM (islab) projects
-SRC_DIR="modules/islab-website/content/en/project"
-DST_DIR="content/project"
-DIRS=`find $SRC_DIR -maxdepth 1 -mindepth 1 -type d`
+        rsync -av --delete $DIR/ $DST_DIR/$LANG/authors/$AUTHOR/
+    done
 
-for DIR in $DIRS;
-do
-    PROJECT="${DIR##$SRC_DIR/}"
-    rsync -a --delete $DIR/ $DST_DIR/$PROJECT/
+    # Copying AIM (islab) projects
+    DIRS=`find $SRC_DIR/$LANG/project/ -maxdepth 1 -mindepth 1 -type d`
+
+    for DIR in $DIRS;
+    do
+        PROJECT="${DIR##$SRC_DIR/$LANG/project}"
+        rsync -av --delete $DIR/ $DST_DIR/$LANG/project/$PROJECT/
+    done
 done
 
 academic import --bibtex bibtex/aim.bib --overwrite --normalize --publication-dir publication
