@@ -42,6 +42,6 @@ jobs:
       - name: SSH key preparation
         run: echo "${{ secrets.SSH_KEY}}" > key && chmod 600 key
       - name: Deploy with rsync
-        run: rsync -avz --dry-run --delete -e "ssh -i key" ./public/* ${{ secrets.SSH_USERNAME }}@${{ secrets.SSH_SERVER }}:${{ secrets.REMOTE_PATH }}/test/preview/${{ github.sha }}/
+        run: rsync -avz --dry-run --delete -e "ssh -i key -o 'StrictHostKeyChecking no'" ./public/* ${{ secrets.SSH_USERNAME }}@${{ secrets.SSH_SERVER }}:${{ secrets.REMOTE_PATH }}/test/preview/${{ github.sha }}/
       - name: Output URL
         run: echo http://www.ids.osaka-u.ac.jp/test/preview/${{ github.sha }}
