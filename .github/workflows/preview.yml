@@ -20,21 +20,13 @@ jobs:
           hugo-version: '0.74.1'
           extended: true
 
+      - name: Import
+        run: bash ./update_content.sh
+        
       - name: Build
         run: hugo --minify --gc -b http://www.ids.osaka-u.ac.jp/test/preview/${{ github.sha }}
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-
-      - name: FTP-Deploy-Action
-        uses: SamKirkland/FTP-Deploy-Action@2.0.0
-        env:
-          FTP_SERVER: ${{ secrets.FTP_SERVER }}
-          FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
-          FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
-          LOCAL_DIR: ./public
-          REMOTE_DIR: ${{ secrets.FTP_REMOTE_DIR }}/${{ github.sha }}
-          ARGS: --verbose --continue
+        run: echo "{{ $secrets.SSH_KEY}} > key && chmod 600 key
+        run: rsync -avz --dry-run --delete -e "ssh -i key" ./public/* {{ $secrets.SSH_USER }}@{{ $secrets.SSH_SERVER }}:{{ $secrets.REMOTE_PATH}}/test/preview/${{ github.sha }}/
+        run: echo http://www.ids.osaka-u.ac.jp/test/preview/${{ github.sha }}
