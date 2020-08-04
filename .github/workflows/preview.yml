@@ -40,7 +40,7 @@ jobs:
         run: hugo --minify --gc -b http://www.ids.osaka-u.ac.jp/test/preview/${{ github.sha }}
 
       - name: SSH key preparation
-        run: echo "{{ $secrets.SSH_KEY}} > key && chmod 600 key
+        run: echo "{{ $secrets.SSH_KEY}}" > key && chmod 600 key
       - name: Deploy with rsync
         run: rsync -avz --dry-run --delete -e "ssh -i key" ./public/* {{ $secrets.SSH_USER }}@{{ $secrets.SSH_SERVER }}:{{ $secrets.REMOTE_PATH}}/test/preview/${{ github.sha }}/
       - name: Output URL
