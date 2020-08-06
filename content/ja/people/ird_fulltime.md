@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Inter&shy;disciplinary Research Divisions"
-subtitle = "Full-time"
+title = "データビリティ研究部門"
+subtitle = "専任"
 
 [content]
   # Choose which group/team of users to display.

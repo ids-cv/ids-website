@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Tetsuya Fukushima"
+title: "福島 鉄也"
 
 weight: 20
 
@@ -12,14 +12,14 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Specially-Appointed Associate Professor
-group: Division of Material Design
+role: 特任准教授
+group: 機能デザイン部門
 
 # Organizations/Affiliations
 organizations:
-- name: "Institute for Datability Science"
+- name: "データビリティフロンティア機構"
   url: "http://www.ids.osaka-u.ac.jp/"
-- name: "Osaka University"
+- name: "大阪大学"
   url: "http://www.osaka-u.ac.jp/"
 
 # Short bio (displayed in user profile at end of posts)

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Noriko Takemura"
+title: "武村 紀子"
 
 weight: 20
 
@@ -12,23 +12,23 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-group: Artificial Intelligence and Mathematics
-role: Associate Professor
+role: 准教授
+group: 知能情報基盤部門
 
 # Organizations/Affiliations
 organizations:
-- name: "Institute for Datability Science"
+- name: "データビリティフロンティア機構"
   url: "http://www.ids.osaka-u.ac.jp/"
-- name: "Osaka University"
+- name: "大阪大学"
   url: "http://www.osaka-u.ac.jp/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "She is working on ambient intelligence and gait recognition using pattern recognition and machine learning."
+bio: "パターン認識、機械学習等を用いた環境知能や歩容認証等に関する研究に従事。"
 
 # List each interest with a dash
 interests:
-- Pattern Recognition
-- Machine Learning
+- パターン認識
+- 機械学習
 
 #education:
 #  courses:
@@ -65,8 +65,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Faculty
-- Fulltime
+- 教員
+- 専任
 ---
 
 ### Contact

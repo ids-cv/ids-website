@@ -27,3 +27,8 @@ weight = 15  # Order that this section will appear.
 
 
 [CeBIt 2014, held in Hannover, Germany]
+
+<br/>
+<font color="white">データビリティとは、大規模なデータを</font>
+<br/>
+<font color="white">持続可能かつ責任ある形で活用する能力のことです。</font>

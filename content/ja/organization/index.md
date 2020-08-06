@@ -1,5 +1,5 @@
 ---
-title: Organization
+title: 組織
 date: "2018-06-28T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
@@ -15,4 +15,4 @@ header:
 columns: 2
 ---
 
-{{< figure src="section01_img.png" >}}
+{{< figure src="organization.png" >}}

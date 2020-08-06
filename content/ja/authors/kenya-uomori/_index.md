@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Kenya Uomori"
+title: "魚森 謙也"
 
 weight: "10"
 
@@ -12,14 +12,14 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Specially-Appointed Professor
-group: Initiative for Life Design Innovation
+role: 特任教授
+group: ライフデザイン・イノベーション研究拠点
 
 # Organizations/Affiliations
 organizations:
-- name: "Institute for Datability Science"
-  url: "http://www.ids.osaka-u.ac.jp/"
-- name: "Osaka University"
+- name: "ライフデザイン・イノベーション研究拠点"
+  url: "http://www.ids.osaka-u.ac.jp/ildi"
+- name: "大阪大学"
   url: "http://www.osaka-u.ac.jp/"
 
 # Short bio (displayed in user profile at end of posts)

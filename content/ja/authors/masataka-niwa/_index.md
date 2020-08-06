@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Masataka Niwa"
+title: "丹羽 真隆"
 
 weight: 50
 
@@ -12,14 +12,14 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Specially-Appointed Researcher/Fellow
-group: Division of Human-Centric System Design
+role: 特任研究員
+group: 人間総合デザイン部門
 
 # Organizations/Affiliations
 organizations:
-- name: "Institute for Datability Science"
+- name: "データビリティフロンティア機構"
   url: "http://www.ids.osaka-u.ac.jp/"
-- name: "Osaka University"
+- name: "大阪大学"
   url: "http://www.osaka-u.ac.jp/"
 
 # Short bio (displayed in user profile at end of posts)

@@ -74,13 +74,9 @@ people:
           - name: "Takayoshi Nakano"
             dept: "Grad. Sch. Eng."
           - name: "Tamio Oguchi"
-            dept: "Soushyuu Kirihara"
-  - name: "Division of Smart System"
-    field: 
-      - name: ""
-        staff:
-          - name: "Yoshiyuki Shimoda"
-            dept: "Grad. Sch. Eng."
+            dept: "ISIR" 
+          - name: "Soushyuu Kirihara"
+            dept: "JWRI"
   - name: "Division of Photonics and Quantum Systems"
     field: 
       - name: ""
@@ -89,12 +85,6 @@ people:
             dept: "Grad. Sch. Eng."
           - name: "Yasushi Inoue"
             dept: "Grad. Sch. FBS"
-  - name: "Division of Smart System"
-    field: 
-      - name: ""
-        staff:
-          - name: "Yoshiyuki Shimoda"
-            dept: "Grad. Sch. Eng."
   - name: "Division of Living Archives"
     field: 
       - name: ""

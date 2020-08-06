@@ -15,13 +15,11 @@ header:
 columns: 2
 ---
 
-{{< figure src="onoye.png" title="Takao Onoye<br/>Executive Vice President of Research<br/>Osaka University" >}}
+{{< figure src="onoye.png" title="尾上 孝雄<br/>大阪大学 理事・副学長（研究担当）" >}}
 
 
-With the dawn of the "big data" era, a massive amount of data is being generated every day, be it from our day-to-day lives, or from cutting-edge scientific fields. What sort of analysis is required to extract beneficial information from such enormous data sources? Furthermore, how can this be done in a sufficiently timely manner? These questions are critical to the future development of many scientific disciplines, and our society as a whole. In pursuing a better world for future generations, we believe the key is whether or not we can create, and subsequently utilize, new intellectual value from this data.
-We at Osaka University have established the Institute for Datability Science (IDS), with the chief aim of utilizing the wealth of data we have at our disposal. One core goal at IDS is the pursuit of a new scientific paradigm through "Datability." This refers to the sustainable and responsible use of large data resources. In pursuit of this goal, we shall pioneer new academic disciplines in the domains of Life Science, Biomedical Science, Science and Engineering, and the Humanities, through sophisticated technologies of information science such as artificial intelligence, with the final goal of creating new social and economic value through interdisciplinary research projects. At IDS, we seek to build a highly productive working environment of co-creation and harmony, cultivating the next generation of scientists and engineers with "datability".
+ビッグデータ時代の幕が開き、我々が暮らす社会から最先端科学分野まで、広範な分野でエクサバイトを超えるビッグデータが毎日のように生成されています。エクサバイトを超える超大量データの迅速な解析と効果的な利活用により、いかに有用な情報や知識を取り出すかが、さまざまな科学技術分野ひいては社会の発展において重要な鍵となります。すなわち、このようなビッグデータの高度な統合利活用と新たな知的価値の創造が、安心安全な社会の実現のために喫緊の課題といえます。
 
-Takao Onoye
-Executive Vice President of Research
-Osaka University
+そこで大阪大学では、ビッグデータの利活用促進を目指し、「データビリティフロンティア機構」を立ち上げました。本機構では、「データビリティ」、すなわち、「利用可能な超大量データを将来にわたって持続可能な形で、しかも責任をもって活用すること」による新たな科学の方法を探求します。その過程において、人工知能をはじめとする高度な情報関連技術を駆使し、生命科学、医歯薬学、理工学、人文科学等の科学技術・学術の新たな地平を切り拓き、さらには社会的、公共的、経済的価値の創造を促進するための学際研究を推進します。そして、本機構は、データビリティの飛躍的向上に資する次世代を担う研究者や技術者を生み出す「協奏と共創の場」として、人材育成に積極的に貢献していきます。
+
 

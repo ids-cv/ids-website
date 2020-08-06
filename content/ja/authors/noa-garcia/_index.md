@@ -12,23 +12,24 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-group: Artificial Intelligence and Mathematics
-role: Specially-Appointed Researcher/Fellow
+role: 特任研究員
+group: 知能情報基盤部門
 
 # Organizations/Affiliations
 organizations:
-- name: "Institute for Datability Science"
+- name: "データビリティフロンティア機構"
   url: "http://www.ids.osaka-u.ac.jp/"
-- name: "Osaka University"
+- name: "大阪大学"
   url: "http://www.osaka-u.ac.jp/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Her research interests lie in computer vision and machine learning applied to visual retrieval and joint models of vision and language for high-level understanding tasks."
+bio: "Her research interests lie in computer vision and machine learning applied to visual retrieval and
+joint models of vision and language for high-level understanding tasks."
 
 # List each interest with a dash
 interests:
-- Computer Vision
-- Machine Learning
+- コンピュータビジョン
+- 機械学習
 
   
 #education:
@@ -66,8 +67,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Fulltime
+- 研究員
+- 専任
 ---
 
 ### Contact

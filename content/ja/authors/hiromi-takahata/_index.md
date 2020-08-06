@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Hiromi Takahata"
+title: "高畑 裕美"
 
 weight: "30"
 
@@ -12,13 +12,13 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Specially Appointed Assistant Professor
-group: Initiative for Life Design Innovation
+role: 特任助教
+group: ライフデザイン・イノベーション研究拠点
 
 # Organizations/Affiliations
 organizations:
-- name: "Institute for Datability Science"
-  url: "http://www.ids.osaka-u.ac.jp/"
+- name: "ライフデザイン・イノベーション研究拠点"
+  url: "http://www.ids.osaka-u.ac.jp/ildi"
 - name: "Osaka University"
   url: "http://www.osaka-u.ac.jp/"
 

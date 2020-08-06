@@ -12,14 +12,14 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Intern
+role: インターン
 
 # Organizations/Affiliations
 organizations:
-- name: "Institute for Datability Science"
+- name: "データビリティフロンティア機構"
   url: "http://www.ids.osaka-u.ac.jp/"
 
-- name: "Osaka University"
+- name: "大阪大学"
   url: "http://www.osaka-u.ac.jp/"
 
 
@@ -68,5 +68,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Visitors
+- 訪問研究者
 ---

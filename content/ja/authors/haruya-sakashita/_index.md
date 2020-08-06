@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Haruya Sakashita"
+title: "坂下 晴哉"
 
 weight: 50
 
@@ -12,15 +12,15 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Graduate Student
+role: 博士前期課程学生
 
 # Organizations/Affiliations
 organizations:
-- name: "Institute for Datability Science"
+- name: "データビリティフロンティア機構"
   url: "http://www.ids.osaka-u.ac.jp/"
-- name: "Graduate School of Information Science and Technology"
+- name: "情報科学研究科"
   url: "http://www.ist.osaka-u.ac.jp/"
-- name: "Osaka University"
+- name: "大阪大学"
   url: "http://www.osaka-u.ac.jp/"
 
 
@@ -69,7 +69,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
+- 学生
 ---
 ### Contact
 - email: sakashita.haruya@ist.

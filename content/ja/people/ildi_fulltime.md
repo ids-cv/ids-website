@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Initiative for Life Design Innovation"
-subtitle = "Full-time"
+title = "ライフデザイン・イノベーション研究拠点"
+subtitle = "専任"
 
 [content]
   # Choose which groups/teams of users to display.

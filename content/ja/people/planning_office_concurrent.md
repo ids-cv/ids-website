@@ -7,8 +7,8 @@ headless: true  # This file represents a page section.
 active: true  # Activate this widget? true/false
 weight: 60  # Order that this section will appear.
 
-title: "Planning Office"
-subtitle: "Concurrent"
+title: "企画室"
+subtitle: "兼任"
   
 advanced:
  # Custom CSS. 
@@ -21,10 +21,10 @@ people:
     field: 
       - name: ""
         staff:
-          - name: "Hisaaki Kato"
-            dept: "ISIR"
-          - name: "Takashi Kikuta"
-            dept: "OMP"
+          - name: "加藤 久明"
+            dept: "産業科学研究所"
+          - name: "菊田 隆"
+            dept: "経営企画オフィス"
 
 
 ---

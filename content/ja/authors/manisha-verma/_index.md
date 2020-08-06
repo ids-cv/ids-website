@@ -12,14 +12,14 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Specially-Appointed Researcher/Fellow
-group: Artificial Intelligence and Mathematics Core
+role: 特任研究員
+group: 知能情報基盤部門
 
 # Organizations/Affiliations
 organizations:
-- name: "Institute for Datability Science"
+- name: "データビリティフロンティア機構"
   url: "http://www.ids.osaka-u.ac.jp/"
-- name: "Osaka University"
+- name: "大阪大学"
   url: "http://www.osaka-u.ac.jp/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,11 +27,11 @@ bio: "Manisha's research interest broadly lies in computer vision and image proc
 
 # List each interest with a dash
 interests:
-- Computer Vision
-- Deep Learning
-- Facial Expression Analysis
-- Pose Recognition
-- Medical Imaging
+- コンピュータビジョン
+- 深層学習
+- 表情解析
+- 姿勢認識
+- 医用画像
 
   
 #education:
@@ -69,15 +69,14 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/manishaverma071989
 
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Fulltime
+- 研究員
+- 専任
 ---
 
 ### Contact

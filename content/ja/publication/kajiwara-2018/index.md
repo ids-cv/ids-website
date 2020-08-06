@@ -1,7 +1,7 @@
 ---
 title: "Complex word identification based on frequency in a learner corpus"
 date: 2018-01-01
-publishDate: 2020-08-03T06:16:28.712397Z
+publishDate: 2020-08-05T06:49:43.771643Z
 authors: ["Tomoyuki Kajiwara", "Mamoru Komachi"]
 publication_types: ["1"]
 abstract: "We introduce the TMU systems for the Complex Word Identification (CWI) Shared Task 2018. TMU systems use random forest classifiers and regressors whose features are the number of characters, the number of words, and the frequency of target words in various corpora. Our simple systems performed best on 5 tracks out of 12 tracks. Our ablation analysis revealed the usefulness of a learner corpus for CWI task."

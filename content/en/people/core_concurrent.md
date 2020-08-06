@@ -67,6 +67,8 @@ people:
             dept: "Grad. Sch. Eng."
           - name: "Hideyuki Hirakawa, Ekou Yagi"
             dept: "Co-design Center"
+          - name: "Shigeki Cyaen"
+            dept: "Law Sch." 
   - name: "Information and Communications Technology Core"
     field:
       - name: "Network, database, security, computer system"

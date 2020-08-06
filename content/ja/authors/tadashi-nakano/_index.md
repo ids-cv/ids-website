@@ -1,8 +1,8 @@
 ---
 # Display name
-title: "Tadashi Nakano"
+title: "中野 賢"
 
-weight: 30
+weight: 20
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -12,8 +12,8 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Specially-Appointed Associate Professor
-group: Information and Communications Technologies
+role: 特任准教授
+group: サービス創出・支援部門
 
 # Organizations/Affiliations
 organizations:
@@ -23,7 +23,7 @@ organizations:
   url: "http://www.osaka-u.ac.jp/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "His research interests include an interdisciplinary research field that integrates information communication engineering and life science. He is mainly working on molecular communication, bio-inspired networks, and social networks."
+bio: "情報通信工学と生命科学を融合する研究領域に興味をもつ。主な研究分野は、分子通信、バイオインスパイアードネットワーク、ソーシャルネットワーク。"
 
 # List each interest with a dash
 #interests:
@@ -62,5 +62,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Fulltime
+- 専任
 ---

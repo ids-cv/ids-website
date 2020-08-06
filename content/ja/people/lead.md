@@ -19,4 +19,4 @@ columns = 1
  css_class = ""
 +++
 
-Please add "osaka-u.ac.jp" to email address. For phone and fax from outside of Osaka University, please push the 4-digit number after 06-6105 (+81-6-6105 for international call).
+EMAILでのご連絡の際は、末尾に「osaka-u.ac.jp」を加えてください。また、大阪大学外からの電話、FAXを頂く場合は、06-6105 (国際電話の場合は+81-6-6105)の後に4桁の番号をプッシュしてください。

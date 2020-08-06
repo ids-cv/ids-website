@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Yoshio Kitaoka"
+title: "北岡 良雄"
 
 weight: "10"
 
@@ -12,18 +12,18 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Professor
-group: Planning Office
+role: 特任教授
+group: 企画室
 
 # Organizations/Affiliations
 organizations:
-- name: "Institute for Datability Science"
+- name: "データビリティフロンティア機構"
   url: "http://www.ids.osaka-u.ac.jp/"
-- name: "Osaka University"
+- name: "大阪大学"
   url: "http://www.osaka-u.ac.jp/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "He is working on planning and support for data-driven interdisciplinary research projects."
+bio: "データ駆動型学際研究プロジェクトの立案を担う企画室の責任者。"
 
 # List each interest with a dash
 #interests:

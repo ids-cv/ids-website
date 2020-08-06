@@ -7,8 +7,8 @@ headless: true  # This file represents a page section.
 active: true  # Activate this widget? true/false
 weight: 40  # Order that this section will appear.
 
-title: "Inter&shy;disciplinary Research Divisions"
-subtitle: "Concurrent"
+title: "データビリティ研究部門"
+subtitle: "兼任"
   
 advanced:
  # Custom CSS. 
@@ -17,93 +17,84 @@ advanced:
  css_class: ""
 
 people:
-  - name: "Division of Health Science"
+  - name: "ヘルスサイエンス部門"
     field: 
       - name: ""
         staff:
-          - name: "Atsushi Kumanogou, Kohji Nishida"
-            dept: "Grad. Sch. Med."
-          - name: "Takefumi Doi"
-            dept: "Grad. Sch. Pharm."
-          - name: "Seiji Takashima"
-            dept: "Grad. Sch. FBS."
-          - name: "Tetsuya Iida"
-            dept: "RIMD"
-  - name: "Division of Bioscience"
+          - name: "熊ノ郷 淳、西田 幸二"
+            dept: "医学系研究科"
+          - name: "土井 健史"
+            dept: "薬学研究科"
+          - name: "高島 成二"
+            dept: "生命機能研究科"
+          - name: "飯田 哲也"
+            dept: "微生物病研究所"
+  - name: "バイオサイエンス部門"
     field: 
       - name: ""
         staff:
-          - name: "Jun Hatazawa"
-            dept: "Grad. Sch. Med."
-          - name: "Hitoshi Hashimoto"
-            dept: "Grad. Sch. Pharm."
-          - name: "Masaru Ishii, Masahiro Ueda"
-            dept: "Grad. Sch. FBS."
-          - name: "Takeharu Nagai"
-            dept: "ISIR"
-          - name: "Junichi Takagi"
-            dept: "IPR"
-  - name: "Division of Cognitive Neuroscience"
+          - name: "畑澤 順"
+            dept: "医学系研究科"
+          - name: "橋本 均"
+            dept: "薬学研究科"
+          - name: "石井 優、上田 昌宏"
+            dept: "生命機能研究科"
+          - name: "永井 健治"
+            dept: "産業科学研究所"
+          - name: "高木 淳一"
+            dept: "蛋白質研究所"
+  - name: "認知脳サイエンス部門"
     field: 
       - name: ""
         staff:
-          - name: "Minoru Asada"
-            dept: "Grad. Sch. Eng."
-          - name: "Hiroshi Ishiguro, Yuichiro Yoshikawa (collabo), Kohei Ogawa (collabo), Yoshihiro Nakata (collabo)"
-            dept: "Grad. Sch. Eng. Sci."
+          - name: "浅田 稔"
+            dept: "工学研究科"
+          - name: "石黒 浩、吉川 雄一郎（協力）、小川 浩平（協力）、仲田
+佳弘（協力）"
+            dept: "基礎工学研究科"
   - name: "Division of Human-Centric System Design"
     field: 
       - name: ""
         staff:
-          - name: "Toru Kikkawa"
-            dept: "Grad. Sch. HUS."
-          - name: "Ken Nakata"
-            dept: "Grad. Sch. Med."
-  - name: "Division of Smart System"
+          - name: "吉川 徹"
+            dept: "人間科学研究科"
+          - name: "中田 研"
+            dept: "医学系研究科"
+  - name: "システムデザイン部門"
     field: 
       - name: ""
         staff:
-          - name: "Yoshiyuki Shimoda"
-            dept: "Grad. Sch. Eng."
-  - name: "Division of Material Design"
+          - name: "下田 吉之"
+            dept: "工学研究科"
+  - name: "機能デザイン部門"
     field: 
       - name: ""
         staff:
-          - name: "Mitsutaka Okumura"
-            dept: "Grad. Sch. Sci."
-          - name: "Takayoshi Nakano"
-            dept: "Grad. Sch. Eng."
-          - name: "Tamio Oguchi"
-            dept: "Soushyuu Kirihara"
-  - name: "Division of Smart System"
+          - name: "奥村 光隆"
+            dept: "理学研究科"
+          - name: "中野 貴由"
+            dept: "工学研究科"
+          - name: "小口 多美夫"
+            dept: "産業科学研究所"
+          - name: "桐原 聡秀"
+            dept: "接合科学研究所"
+  - name: "光・量子デザイン部門"
     field: 
       - name: ""
         staff:
-          - name: "Yoshiyuki Shimoda"
-            dept: "Grad. Sch. Eng."
-  - name: "Division of Photonics and Quantum Systems"
+          - name: "兒玉 了祐"
+            dept: "工学研究科"
+          - name: "井上 康志"
+            dept: "生命機能研究科"
+  - name: "デジタルヒューマニティ部門"
     field: 
       - name: ""
         staff:
-          - name: "Ryousuke Kodama"
-            dept: "Grad. Sch. Eng."
-          - name: "Yasushi Inoue"
-            dept: "Grad. Sch. FBS"
-  - name: "Division of Smart System"
-    field: 
-      - name: ""
-        staff:
-          - name: "Yoshiyuki Shimoda"
-            dept: "Grad. Sch. Eng."
-  - name: "Division of Living Archives"
-    field: 
-      - name: ""
-        staff:
-          - name: "Yasushi Nagata, Yutaka Fujioka"
-            dept: "Grad. Sch. Lett."
-          - name: "Shinji Fujimoto"
-            dept: "Grad. Sch. Eng."
-          - name: "Maki Miyake, Satoshi Tabatake, Takao Fujikawa"
-            dept: "Grad. Sch. Lang."
+          - name: "永田 靖、藤岡 穣"
+            dept: "文学研究科"
+          - name: "藤本 慎司"
+            dept: "工学研究科"
+          - name: "三宅 真紀、田畑 智司、藤川 隆男"
+            dept: "言語文化研究科"
 
 ---

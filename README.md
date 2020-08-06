@@ -17,7 +17,7 @@ Directly modify respective directories for other groups' authors and projects.
 
 Generated from bibtex files at:
 
-- `bibtex/aim.bib`
+- `bibtex/aim.bib` -> modules/islab-webpage/bibtex/islab.bib
 - `bibtex/ict.bib`
 - `bibtex/elsi.bib`
 

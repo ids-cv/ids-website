@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Law and AI"
-summary: "This work investigates legal evaluation criteria on the green laws' participation principle, analyzes Japanese participation system's pros and cons in a comparative perspective, and propose some recommendations to establish the environmental democracy."
-authors: ["Benjamin Renoust", "Chenhui Chu", "Yuta Nakashima", "Noriko Takemura", "Hajime Nagahara"]
+title: "多国間法令の比較と統計分析のための多言語機械翻訳"
+summary: "大阪大学法学研究科の[大久保 規子 教授](https://researchmap.jp/read0180483)との共同研究では、いろいろな国で環境法がどのように実施されているかについてを自動で評価する方法を研究しています。 "
+authors: ["chenhui-chu", "benjamin-renoust", "yuta-nakashima", "noriko-takemura", "hajime-nagahara"]
 tags: []
 categories: []
 date: 2020-06-17T23:02:32+09:00
@@ -40,10 +40,31 @@ url_video: ""
 slides: ""
 ---
 
-In collaboration with [Prof. Noriko Okubo](https://researchmap.jp/read0180483?lang=en) at Graduate School of Law and Politics, Osaka University, we are studying to automatically evaluate how green laws are enforced in different countries. 
+## {{< icon name="sitemap" pack="fas" >}} 研究体制
+- 【代表者】大久保規子（法学研究科）
+- 【IDS】長原一
+- 【IDS】中島悠太
+- 【IDS】Chenhui Chu
 
-Green laws' participation principle consists of 1) the information access right, 2) participation in the policy decision process, 3) the judicial access; however, actual implementation varies country to country, and legal methodologies have been explored for evaluating their effectiveness. This work investigates legal evaluation criteria on the green laws' participation principle, analyzes Japanese participation system's pros and cons in a comparative perspective, and propose some recommendations to establish the environmental democracy.
+## {{< icon name="lightbulb" pack="fas" >}} 概要
+
+環境法の参加原則は、①情報アクセス権、②政策決定への参加権、③司法アクセス権という３つの柱から成り立っているが、その具体的制度は国によりさまざまであり、実効性を評価するための法的手法が模索されている。本研究は、環境法の参加原則に関する国際的な法的評価指標を検討することにより、日本の参加法制の強みと弱みを比較法的な観点から分析し、環境民主主義の確立に向けた提言を行うことを目的とする。
+
+## {{< icon name="clock" pack="fas" >}} これまで
+
+- 参加指標の作成を目的に、これまで対象国の法律の分析を進めてきたが、その数は膨大であり、人手で日本語または英語に翻訳するにはコストが高く時間もかかる
+- 既存の機械翻訳システムは法律ドメインにフォーカスしていないため十分な精度が期待できない。
  
-The difficulty lies in how to automatically find out related legislations, cases, statutes, etc. in different languages. As the first attempt, we proposed a method for identifying the topic of such legal documents through analyzing citation networks in addition to classic topic modeling. The figure below shows citation networks among different types of legal documents (e.g., cases-prior cases).
+## {{< icon name="university" pack="fas" >}} データビリティフロンティア機構
 
-{{< figure src="citation_networks.png" title="" lightbox="true" >}}
+- 対訳法令を用いた機械学習による翻訳システムの開発
+- 法律ドメインの高精度な機械翻訳の実現
+- 多言語間の法令比較・分析
+
+
+## {{< icon name="chart-line" pack="fas" >}} 期待される効果
+
+- より多くの法令の分析を促進
+- 現在の法的評価指標の充実
+- 判例の翻訳にも活用
+- 法令の運用実態の解明にもつながることが期待

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Natsuko Yamamoto"
+title: "山本 奈津子"
 
 weight: 30
 
@@ -12,18 +12,18 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Specially-Appointed Associate Professor
-group: Ethical, Legal, and Social Issues
+role: 特任講師
+group: ビッグデータ社会技術部門
 
 # Organizations/Affiliations
 organizations:
-- name: "Institute for Datability Science"
+- name: "データビリティフロンティア機構"
   url: "http://www.ids.osaka-u.ac.jp/"
-- name: "Osaka University"
+- name: "大阪大学"
   url: "http://www.osaka-u.ac.jp/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Protection of personal information and privacy, bioethics and medical ethics in the big-data era."
+bio: "ビッグデータ時代の個人情報やプライバシーの保護、生命倫理への取り組み。"
 
 # List each interest with a dash
 #interests:
@@ -66,5 +66,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Fulltime
+- 専任
 ---

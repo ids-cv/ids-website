@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Rika Umeyama"
+title: "梅山 倫華"
 
 weight: 20200
 
@@ -12,15 +12,13 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Graduate Student
+role: 学部学生
 
 # Organizations/Affiliations
 organizations:
-- name: "Institute for Datability Science"
+- name: "データビリティフロンティア機構"
   url: "http://www.ids.osaka-u.ac.jp/"
-- name: "Graduate School of Information Science and Technology"
-  url: "http://www.ist.osaka-u.ac.jp/"
-- name: "Osaka University"
+- name: "大阪大学"
   url: "http://www.osaka-u.ac.jp/"
 
 
@@ -69,7 +67,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
+- 学生
 ---
 ### Contact
 - email: umeyama@am.sanken.

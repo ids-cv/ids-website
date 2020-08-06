@@ -12,13 +12,13 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Guest Associate Professor
+role: 招へい准教授
 
 # Organizations/Affiliations
 organizations:
-- name: "Institute for Datability Science"
+- name: "データビリティフロンティア機構"
   url: "http://www.ids.osaka-u.ac.jp/"
-- name: "Osaka University"
+- name: "大阪大学"
   url: "http://www.osaka-u.ac.jp/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,8 +26,8 @@ bio:
 
 # List each interest with a dash
 interests:
-- Machine Translation
-- Natural Language Processing
+- 機械翻訳
+- 自然言語処理
   
 #education:
 #  courses:
@@ -67,7 +67,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Guest Researchers
+- 招へい研究員
 ---
 
 ### Contact

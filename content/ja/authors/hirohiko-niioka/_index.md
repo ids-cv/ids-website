@@ -1,8 +1,8 @@
 ---
 # Display name
-title: "Hirohiko Niioka"
+title: "新岡 宏彦"
 
-weight: 30
+weight: 20
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -12,24 +12,24 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Specially-Appointed Associate Professor
-group: Artificial Intelligence and Mathematics
+role: 特任准教授
+group: 知能情報基盤部門
 
 # Organizations/Affiliations
 organizations:
-- name: "Institute for Datability Science"
+- name: "データビリティフロンティア機構"
   url: "http://www.ids.osaka-u.ac.jp/"
-- name: "Osaka University"
+- name: "大阪大学"
   url: "http://www.osaka-u.ac.jp/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "He is working on classification of various bioimaging data and diagnosis aid using medical data by deep learning . The data set is an optical microscope image (fluorescence microscope, second near-infrared microscope, Raman microscope, etc.), CT image and healthcare data and so on."
+bio: "深層学習による様々なバイオイメージングデータの分類、医療データを用いた診断補助に従事。光学顕微鏡(蛍光顕微鏡、第二近赤外顕微鏡、ラマン顕微鏡など)によるデータベース作成と分類。CT画像やヘルスケアデータを扱う。"
 
 # List each interest with a dash
 interests:
-- Bioimaging
-- Medical Imaging
-- Deep Learning
+- バイオイメージング
+- 医用画像
+- 深層学習
   
 #education:
 #  courses:
@@ -66,8 +66,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Fulltime
+- 研究員
+- 専任
 ---
 
 ### Contact

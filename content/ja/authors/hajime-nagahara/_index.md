@@ -1,8 +1,8 @@
 ---
 # Display name
-title: "Hajime Nagahara"
+title: "長原 一"
 
-weight: "10"
+weight: 10
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -12,24 +12,24 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Professor
-group: Artificial Intelligence and Mathematics
+role: 教授
+group: 知能情報基盤部門
 
 # Organizations/Affiliations
 organizations:
-- name: "Institute for Datability Science"
+- name: "データビリティフロンティア機構"
   url: "http://www.ids.osaka-u.ac.jp/"
-- name: "Osaka University"
+- name: "大阪大学"
   url: "http://www.osaka-u.ac.jp/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "He is working on computer vision and pattern recognition. His main research interests lie in image/video recognition and understanding, as well as applications of natural language processing techniques."
+bio: "コンピューテーショナルフォトグラフィ、コンピュータビジョンを専門とし実世界センシングや情報処理技術、画像認識技術の研究を行う。さらに、画像センシングにとどまらず様々なセンサに拡張したコンピュテーショナルセンシング手法の開発や高次元で冗長な実世界ビッグデータから意味のある情報を計測するスパースセンシングへの転換を目指す。"
 
 # List each interest with a dash
 interests:
-- Computational Photography
-- Computer Vision
-- Sensing
+- コンピュテーショナルフォトグラフィ
+- コンピュータビジョン
+- センシング
 
 #education:
 #  courses:
@@ -63,15 +63,14 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=CZyXjREAAAAJ&hl=ja
 
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Faculty
-- Fulltime
+- 教員
+- 専任
 ---
 
 ### Contact

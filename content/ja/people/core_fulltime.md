@@ -7,15 +7,15 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Datability Core"
-subtitle = "Full-time"
+title = "データビリティ基盤部門"
+subtitle = "専任"
 
 columns = 2
 
 [content]
   # Choose which group/team of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of this group.
-  user_group = "Fulltime"
+  user_group = "専任"
 
 [design]
   # Show user's social networking links? (true/false)

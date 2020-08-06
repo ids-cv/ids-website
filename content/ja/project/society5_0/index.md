@@ -2,11 +2,11 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Society 5.0 Projects"
-summary: ""
-authors: ["Manisha Verma", "Tomoyuki Kajiwara", "Noriko Takemura", "Yuta Nakashima", "Hajime Nagahara"]
+summary: "データビリティフロンティア機構では、情報科学の様々な分野に渡る技術を利用して、[Society 5.0](http://www.ids.osaka-u.ac.jp/ildi/index.html)プロジェクトに取り組んでいます。"
+authors: ["manisha-verma", "tomoyuki-kajiwara", "noriko-takemura", "yuta-nakashima", "hajime-nagahara"]
 tags: ["society5.0"]
 categories: []
-date: 2020-07-01T10:07:15+09:00
+date: 2018-11-01T10:07:15+09:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,16 +39,16 @@ url_video: ""
 # Otherwise, set `slides = ""`.
 slides: ""
 ---
-Institute for Datability Science, Osaka University is now working on [Society 5.0](http://www.ids.osaka-u.ac.jp/ildi/en/index.html) using information science and technology. 
+データビリティフロンティア機構では、情報科学の様々な分野に渡る技術を利用して、[Society 5.0](http://www.ids.osaka-u.ac.jp/ildi/index.html)プロジェクトに取り組んでいます。
 
-> In the world of Society 5.0, innovations in IoT, Big Data, robotics, and AI will be part of everyday life, helping people lead active and high-quality lives, creating a super-smart society. This project encourages collaboration across projects and university organizations, thus promoting faster adoption of research results in real-world society.
+> Society 5.0 とは・・・IoTビッグデータ、ロボット技術、人工知能等のイノベーションを、産業や社会生活に活用し、人々が活力に満ちた質の高い生活を実感できる社会のこと。
 
-Under this big project, we are working two sub-projects:
+このプロジェクトの下、以下の二つの課題に取り組んでいます。
 
-## Social sensing for Society 5.0
+## Society 5.0のためのソーシャルセンシング
 
-Sensing technologies that aggregate various types of information from publicly and ubiquitously available social probes including social networking services are essential for providing various services in the world of Society 5.0. We are working towards establishing a social sensing technology that can infer emotional states of people for timely services. 
+多種多様な、広く公開されたセンサデータから有用な情報を集めるセンシング技術は、Society 5.0の実現に不可欠なものです。ソーシャルネットワークでさえも、現在の社会を観測するプローブであると見ることができます。このプロジェクトでは、ソーシャルネットワークを利用して、人々の感情などを推測するシステムを構築し、Society 5.0の世界におけるタイムリーなサービスの提供を目指します。
 
-## Future school technology for Society 5.0 
+## Society 5.0世界の未来の学校プロエジェクト 
 
-Education everywhere is one of SDGs, and e-learning is one solution toward this. We collectively working on a broad range of technologies related to e-learning. 
+教育の提供は持続可能な開発目標の一つとして挙げられる現代社会の課題の一つです。e-learningはこの目標に対するアプローチの一つとなり得るものですが、質の高い教育のためには、学習者の状態の把握などを始めとする様々な技術による支援が必要になると考えられます。このプロジェクトでは、関連する技術に幅広く取り組んでいます。

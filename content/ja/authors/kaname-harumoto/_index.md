@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Kaname Harumoto"
+title: "春本 要"
 
 weight: "11"
 
@@ -12,18 +12,18 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Professor
-group: Information and Communications Technologies
+role: 教授
+group: サービス創出・支援部門
 
 # Organizations/Affiliations
 organizations:
-- name: "Institute for Datability Science"
+- name: "データビリティフロンティア機構"
   url: "http://www.ids.osaka-u.ac.jp/"
-- name: "Osaka University"
+- name: "大阪大学"
   url: "http://www.osaka-u.ac.jp/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "He is working on data deployment, collection, and retrieval in various network environments, as well as planning and installation of fundamental systems for datability information processing that serve as various data-driven academic research projects."
+bio: "多様なネットワーク環境上でのデータ配信、取集、検索等の利活用に関する研究。多様なデータ学術研究の基盤とするためのデータビリティ知識処理基盤システムの企画、構築。"
 
 # List each interest with a dash
 #interests:
@@ -59,6 +59,6 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Fulltime
+- 専任
 ---
 
