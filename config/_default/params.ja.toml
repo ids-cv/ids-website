@@ -94,14 +94,14 @@ fax   = "06-6105-6075"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "山田丘2-8 テクノアライアンス棟C503", city = "吹田", region = "大阪", postcode = "〒565-0971", country = "日本", country_code = "JA"}
+address = {street = "山田丘2-8 テクノアライアンス棟C503", city = "吹田", region = "大阪", postcode = "〒565-0871", country = "日本", country_code = "JA"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "34.820992", longitude = "135.523192"}
 
 # Directions for visitors to locate you.
-directions = "テクノアライアンスC棟内エレベータで5階のC503に起こしください"
+directions = "テクノアライアンスC棟内エレベータで5階のC503にお越し下さい"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

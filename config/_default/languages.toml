@@ -54,6 +54,11 @@
     weight = 60
 
   [[ja.menu.main]]
+    name = "活動報告"
+    url = "/report"
+    weight = 70
+
+  [[ja.menu.main]]
     name = "アクセス"
     url = "/access"
-    weight = 70
+    weight = 80

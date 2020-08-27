@@ -1,18 +1,18 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Hosted IDS Symposium (in Japanese)"
+title: "2020年1月30日（木）IDSシンポジウム【学内で始めるビッグデータ共創－○○学×データビリティサイエンス】を開催します"
 subtitle: ""
 summary: ""
 authors: [admin]
 tags: []
 categories: []
-date: 2020-02-07T00:00:00+09:00
-lastmod: 2020-02-07T00:00:00+09:00
+date: 2019-12-11T00:00:00+09:00
+lastmod: 2019-12-11T00:00:00+09:00
 featured: false
 draft: false
 
-external_link: http://www.ids.osaka-u.ac.jp/wp/wp-content/uploads/2020/02/49b248a4e48e1d944969c89db4403dca.pdf
+external_link: 516cff9a701041315ecbbfcf583f189c.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

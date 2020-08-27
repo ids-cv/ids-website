@@ -1,18 +1,18 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "IDS Concluded comprehensive partnership with University of Yamanashi and Kyoto Tachibana University"
+title: "ライフデザイン・イノベーション研究拠点(iLDi)国際シンポジウムを開催しました"
 subtitle: ""
 summary: ""
 authors: [admin]
 tags: []
 categories: []
-date: 2020-06-10T00:00:00+09:00
-lastmod: 2020-06-10T00:00:00+09:00
+date: 2019-11-11T00:00:00+09:00
+lastmod: 2019-11-11T00:00:00+09:00
 featured: false
 draft: false
 
-external_link: http://www.ids.osaka-u.ac.jp/ildi/news/2020/0610.html
+external_link: https://www.osaka-u.ac.jp/ja/news/topics/2019/11/0802
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
