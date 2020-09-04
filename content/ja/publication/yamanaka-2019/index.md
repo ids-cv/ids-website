@@ -1,7 +1,7 @@
 ---
 title: "Excitation of erbium-doped nanoparticles in 1550-nm wavelength region for deep tissue imaging with reduced degradation of spatial resolution"
 date: 2019-07-01
-publishDate: 2020-08-27T04:45:28.054849Z
+publishDate: 2020-09-04T09:49:36.395534Z
 authors: ["Masahito Yamanaka", "Hirohiko Niioka", "Taichi Furukawa", "Norihiko Nishizawa"]
 publication_types: ["2"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Unsupervised Video Summarization using Deep Video Features"
 date: 2017-01-01
-publishDate: 2020-08-27T04:45:27.191518Z
+publishDate: 2020-09-04T09:49:35.286993Z
 authors: ["Mayu Otani", "Yuta Nakashima", "Esa Rahtu", "Janne Heikkilä", "Naokazu Yokoya"]
 publication_types: ["1"]
 abstract: ""

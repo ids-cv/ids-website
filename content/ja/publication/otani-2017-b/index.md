@@ -1,7 +1,7 @@
 ---
 title: "Video question answering to find a desired video eegment"
 date: 2017-01-01
-publishDate: 2020-08-27T04:45:28.111674Z
+publishDate: 2020-09-04T09:49:36.576177Z
 authors: ["Mayu Otani", "Yuta Nakashima", "Esa Rahtu", "Janne Heikkilä"]
 publication_types: ["1"]
 abstract: ""

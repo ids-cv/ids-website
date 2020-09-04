@@ -1,7 +1,7 @@
 ---
 title: "Legal information as a complex network: Improving topic modeling through homophily"
 date: 2019-11-01
-publishDate: 2020-08-27T04:45:28.230474Z
+publishDate: 2020-09-04T09:49:36.738626Z
 authors: ["Kazuki Ashihara", "Chenhui Chu", "Benjamin Renoust", "Noriko Okubo", "Noriko Takemura", "Yuta Nakashima", "Hajime Nagahara"]
 publication_types: ["1"]
 abstract: "Topic modeling is a key component to computational legal science. Network analysis is also very important to further understand the structure of references in legal documents. In this paper, we improve topic modeling for legal case documents by using homophily networks derived from two families of references: prior cases and statute laws. We perform a detailed analysis on a rich legal case dataset in order to create these networks. The use of the reference-induced homophily topic modeling improves on prior methods."
