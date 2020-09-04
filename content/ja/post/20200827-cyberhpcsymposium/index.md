@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "IDS共催でサーバメディアセンターHPCシンポジウムを開催します"
+title: "IDS共催でサイバーメディアセンターHPCシンポジウムを開催します"
 subtitle: ""
 summary: ""
 authors: [admin]
