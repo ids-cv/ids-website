@@ -26,5 +26,5 @@ weight = 10  # Order that this section will appear.
 
 <br/>
 <br/>
-<div style="text-align:center; margin:0 auto;"><img style="text-align:center; margin:0 auto; " src="/home/text01.png"><br/></div>
+<div style="text-align:center; margin:0 auto;"><img style="text-align:center; margin:0 auto; " src="/media/text01.png"><br/></div>
 
