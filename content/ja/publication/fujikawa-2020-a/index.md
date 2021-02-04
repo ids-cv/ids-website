@@ -1,7 +1,7 @@
 ---
 title: "歴史研究におけるビッグデータの活用－オーストラリアを中心に"
 date: 2019-12-01
-publishDate: 2020-09-04T09:49:36.170064Z
+publishDate: 2021-02-04T05:12:30.049420Z
 authors: ["藤川 隆男", "Chenhui Chu", "梶原 智之", "長原 一"]
 publication_types: ["2"]
 abstract: ""

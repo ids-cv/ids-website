@@ -2,7 +2,7 @@
 # Display name
 title: "Noa Garcia"
 
-wegith: 50
+wegith: 51
 
 # Username (this should match the folder name and the name on publications)
 authors:

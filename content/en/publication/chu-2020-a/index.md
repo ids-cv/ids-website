@@ -1,7 +1,7 @@
 ---
 title: "Public meeting corpus construction and content delivery"
 date: 2019-12-01
-publishDate: 2020-09-04T09:49:35.005097Z
+publishDate: 2021-02-04T05:12:28.452008Z
 authors: ["Chenhui Chu", "Koji Tanaka", "Haolin Ren", "Benjamin Renoust", "Yuta Nakashima", "Noriko Takemura", "Hajime Nagahara", "Takao Fujikawa"]
 publication_types: ["1"]
 abstract: ""
