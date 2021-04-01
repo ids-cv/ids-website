@@ -1,7 +1,7 @@
 ---
 title: "Invited Article: Label-free nerve imaging with a coherent anti-Stokes Raman scattering rigid endoscope using two optical fibers for laser delivery"
 date: 2018-09-01
-publishDate: 2021-02-04T05:12:30.139101Z
+publishDate: 2021-04-01T00:07:50.128278Z
 authors: ["Keigo Hirose", "Shuichiro Fukushima", "Taichi Furukawa", "Hirohiko Niioka", "Mamoru Hashimoto"]
 publication_types: ["2"]
 abstract: ""
