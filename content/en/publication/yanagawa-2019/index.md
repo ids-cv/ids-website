@@ -1,7 +1,7 @@
 ---
 title: "Application of deep learning (3-dimensional convolutional neural network) for the prediction of pathological invasiveness in lung adenocarcinoma"
 date: 2019-06-01
-publishDate: 2021-04-01T02:50:03.995420Z
+publishDate: 2021-05-06T02:29:13.524922Z
 authors: ["Masahiro Yanagawa", "Hirohiko Niioka", "Akinori Hata", "Noriko Kikuchi", "Osamu Honda", "Hiroyuki Kurakami", "Eiichi Morii", "Masayuki Noguchi", "Yoshiyuki Watanabe", "Jun Miyake", "Noriyuki Tomiyama"]
 publication_types: ["2"]
 abstract: ""

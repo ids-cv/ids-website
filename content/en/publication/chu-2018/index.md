@@ -1,7 +1,7 @@
 ---
 title: "Visually grounded paraphrase extraction"
 date: 2018-01-01
-publishDate: 2021-04-01T02:50:03.971865Z
+publishDate: 2021-05-06T02:29:13.505436Z
 authors: ["Chenhui Chu", "Mayu Otani", "Yuta Nakashima"]
 publication_types: ["1"]
 abstract: ""
