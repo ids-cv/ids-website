@@ -54,11 +54,11 @@ social:
   icon_pack: fas
   str: "tel: 6071"
   show_link: false
-- icon: home
-  icon_pack: fas
-  link: http://ethpol.org/member/natsuko_yamamoto/
-  str: personal
-  show_link: true
+#- icon: home
+#  icon_pack: fas
+#  link: http://ethpol.org/member/natsuko_yamamoto/
+#  str: personal
+#  show_link: true
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
