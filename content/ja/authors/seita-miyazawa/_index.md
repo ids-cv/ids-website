@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "宮澤 晴太"
+title: "宮澤 清太"
 
 weight: "10"
 
