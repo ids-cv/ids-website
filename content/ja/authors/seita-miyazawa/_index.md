@@ -1,19 +1,19 @@
 ---
 # Display name
-title: "Sudhakar Kumawat"
+title: "宮澤 晴太"
 
-weight: 55
+weight: "10"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "sudhakar-kumawat"
+- "seita-miyazawa"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: 特任研究員
-group: 知能情報基盤部門
+role: 特任准教授
+group: 企画室
 
 # Organizations/Affiliations
 organizations:
@@ -23,21 +23,14 @@ organizations:
   url: "http://www.osaka-u.ac.jp/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "His research interests are privacy preservation in computer vision, transfer learning in computational photography, and action recognition."
+bio: "データ駆動型学際研究プロジェクトの立案を担う企画室の責任者。"
 
 # List each interest with a dash
-interests:
-- Computer Vision
+#interests:
+#- Computational Photography
+#- Computer Vision
+#- Sensing
 
-  
-#education:
-#  courses:
-#  - course: PhD in Mathematics
-#    institution: Indian Institute of Technology Roorkee, India
-#    year: 2016
-#  - course: MSc in Industrial Mathematics and Informatics
-#    institution: Indian Institute of Technology Roorkee, India
-#    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,37 +40,22 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-  str: "sudhakar@ids."
+  str: "miyazawa@ids."
   show_link: false
 - icon: phone
   icon_pack: fas
-  str: "tel: 6074"
+  str: "tel: 6071"
   show_link: false
 #- icon: home
 #  icon_pack: fas
-#  link: 
+#  link: http://www.yoshikita.com/
 #  str: personal
 #  show_link: true
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: 
-#- icon: linkedin
-#  icon_pack: fab
-#  link: 
 
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 研究員
-- 専任
+- PO-Fulltime
 ---
 
-### Contact
-- email: sudhakar@ids.
-
-
-Please add `osaka-u.ac.jp` to complete email address

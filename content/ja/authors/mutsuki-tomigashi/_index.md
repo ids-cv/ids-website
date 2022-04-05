@@ -1,42 +1,41 @@
 ---
 # Display name
-title: "Sudhakar Kumawat"
+title: "冨樫 睦輝"
 
-weight: 55
+weight: 7020210
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "sudhakar-kumawat"
+- "mutsuki-tomigashi"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: 特任研究員
-group: 知能情報基盤部門
+role: 学部学生
 
 # Organizations/Affiliations
 organizations:
-- name: "データビリティフロンティア機構"
-  url: "http://www.ids.osaka-u.ac.jp/"
+- name: "工学部"
+  url: "https://www.eng.osaka-u.ac.jp/ja/"
 - name: "大阪大学"
   url: "http://www.osaka-u.ac.jp/"
 
+
 # Short bio (displayed in user profile at end of posts)
-bio: "His research interests are privacy preservation in computer vision, transfer learning in computational photography, and action recognition."
+bio: 
 
 # List each interest with a dash
-interests:
-- Computer Vision
+#interests:
+#- 
 
-  
 #education:
 #  courses:
-#  - course: PhD in Mathematics
-#    institution: Indian Institute of Technology Roorkee, India
-#    year: 2016
-#  - course: MSc in Industrial Mathematics and Informatics
-#    institution: Indian Institute of Technology Roorkee, India
+#  - course: Title course 1
+#    institution: Name of Institution
+#    year: 2012
+#  - course: Title course 1
+#    institution: Name of Institution
 #    year: 2012
 
 # Social/Academic Networking
@@ -44,27 +43,23 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-  str: "sudhakar@ids."
-  show_link: false
-- icon: phone
-  icon_pack: fas
-  str: "tel: 6074"
-  show_link: false
-#- icon: home
+#- icon: envelope
 #  icon_pack: fas
-#  link: 
-#  str: personal
-#  show_link: true
+#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/USERNAME
 #- icon: google-scholar
 #  icon_pack: ai
-#  link: 
-#- icon: linkedin
+#  link: https://scholar.google.com/citations?user=PERSON-ID
+#- icon: github
 #  icon_pack: fab
-#  link: 
-
+#  link: https://github.com/USERNAME
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -72,12 +67,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 研究員
-- 専任
+- Almuni
 ---
-
 ### Contact
-- email: sudhakar@ids.
+- email: tomigashi@is.ids.
 
 
 Please add `osaka-u.ac.jp` to complete email address
