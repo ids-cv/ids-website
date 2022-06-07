@@ -23,18 +23,16 @@ people:
         staff:
           - name: "熊ノ郷 淳、西田 幸二"
             dept: "医学系研究科"
-          - name: "土井 健史"
-            dept: "薬学研究科"
           - name: "高島 成二"
             dept: "生命機能研究科"
           - name: "飯田 哲也"
             dept: "微生物病研究所"
+          - name: "谷川 千尋、若林 一道"
+            dept: "歯学部附属病院"
   - name: "バイオサイエンス部門"
     field: 
       - name: ""
         staff:
-          - name: "畑澤 順"
-            dept: "医学系研究科"
           - name: "橋本 均"
             dept: "薬学研究科"
           - name: "石井 優、上田 昌宏"
@@ -48,18 +46,19 @@ people:
       - name: ""
         staff:
           - name: "浅田 稔"
-            dept: "工学研究科"
-          - name: "石黒 浩、吉川 雄一郎（協力）、小川 浩平（協力）、仲田
-佳弘（協力）"
+            dept: "先導的学際研究機構"
+          - name: "石黒 浩、吉川 雄一郎"
             dept: "基礎工学研究科"
-  - name: "Division of Human-Centric System Design"
+  - name: "人間総合デザイン部門"
     field: 
       - name: ""
         staff:
-          - name: "吉川 徹"
+          - name: "吉川 徹、平井 啓"
             dept: "人間科学研究科"
           - name: "中田 研"
             dept: "医学系研究科"
+          - name: "武田 裕之"
+            dept: "工学研究科"
   - name: "システムデザイン部門"
     field: 
       - name: ""
@@ -74,8 +73,6 @@ people:
             dept: "理学研究科"
           - name: "中野 貴由"
             dept: "工学研究科"
-          - name: "小口 多美夫"
-            dept: "産業科学研究所"
           - name: "桐原 聡秀"
             dept: "接合科学研究所"
   - name: "光・量子デザイン部門"
@@ -86,15 +83,17 @@ people:
             dept: "工学研究科"
           - name: "井上 康志"
             dept: "生命機能研究科"
-  - name: "デジタルヒューマニティ部門"
+          - name: "中野 貴志、岩崎 昌子"
+            dept: "核物理研究センター"
+  - name: "デジタルヒューマニティーズ部門"
     field: 
       - name: ""
         staff:
-          - name: "永田 靖、藤岡 穣"
+          - name: "永田 靖、藤岡 穣、藤川 隆男"
             dept: "文学研究科"
           - name: "藤本 慎司"
             dept: "工学研究科"
-          - name: "三宅 真紀、田畑 智司、藤川 隆男"
+          - name: "三宅 真紀、田畑 智司"
             dept: "言語文化研究科"
 
 ---
