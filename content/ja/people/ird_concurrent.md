@@ -23,7 +23,7 @@ people:
         staff:
           - name: "熊ノ郷 淳、西田 幸二"
             dept: "医学系研究科"
-          - name: "高島 成二"
+          - name: "髙島 成二"
             dept: "生命機能研究科"
           - name: "飯田 哲也"
             dept: "微生物病研究所"
@@ -39,7 +39,7 @@ people:
             dept: "生命機能研究科"
           - name: "永井 健治"
             dept: "産業科学研究所"
-          - name: "高木 淳一"
+          - name: "髙木 淳一"
             dept: "蛋白質研究所"
   - name: "認知脳サイエンス部門"
     field: 
@@ -91,7 +91,7 @@ people:
         staff:
           - name: "三宅 真紀、田畑 智司、永田 靖、藤岡 穣、藤川 隆男"
             dept: "人文学研究科"
-          - name: "藤本 慎司"
+          - name: "藤本 愼司"
             dept: "工学研究科"
 
 ---
