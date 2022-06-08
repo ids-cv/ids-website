@@ -5,9 +5,9 @@
 widget: people_red  # See https://sourcethemes.com/academic/docs/page-builder/
 headless: true  # This file represents a page section.
 active: true  # Activate this widget? true/false
-weight: 20  # Order that this section will appear.
+weight: 40  # Order that this section will appear.
 
-title: "データビリティ基盤部門"
+title: "データビリティ研究部門"
 subtitle: "兼任"
   
 advanced:
@@ -17,64 +17,81 @@ advanced:
  css_class: ""
 
 people:
-  - name: "知能情報基盤部門"
+  - name: "ヘルスサイエンス部門"
     field: 
-      - name: "統計学、数理科学"
+      - name: ""
         staff:
-          - name: "福重 元嗣、大屋 幸輔、谷崎 久志"
-            dept: "経済学研究科"
-          - name: "狩野 裕、田中 冬彦、内田 雅之"
-            dept: "基礎工学研究科"
-      - name: "システム計画数理、最適化、複雑系、オペレーションズリサーチ"
+          - name: "熊ノ郷?淳、西田?幸二"
+            dept: "医学系研究科"
+          - name: "髙島 成二"
+            dept: "生命機能研究科"
+          - name: "飯田?哲也"
+            dept: "微生物病研究所"
+          - name: "谷川 千尋、若林 一道"
+            dept: "歯学部附属病院"
+  - name: "バイオサイエンス部門"
+    field: 
+      - name: ""
         staff:
-          - name: "乾口 雅弘、関 宏理、潮 俊光"
-            dept: "基礎工学研究科"
-          - name: "森田 浩、藤﨑 泰正、梅谷 俊治"
-            dept: "情報科学研究科"
-      - name: "知能情報学（AI、機械学習、データマイニング、バイオインフォマティクス、オントロジー等）"
-        staff:
-          - name: "八木 康史、鷲尾 隆、沼尾 正行、福井 健一、黒田 俊一<br>櫻井 保志、松原 靖子"
+          - name: "橋本?均"
+            dept: "薬学研究科"
+          - name: "石井?優、上田?昌宏"
+            dept: "生命機能研究科"
+          - name: "永井?健治"
             dept: "産業科学研究所"
-          - name: "鬼塚 真、荒瀬 由紀、松田 秀雄、瀬尾 茂人"
-            dept: "情報科学研究科"
-          - name: "松村 真宏"
-            dept: "経済学研究科"
-      - name: "知覚情報処理（画像・映像、音声、自然言語、センサ情報、マルチメディア等）"
-        staff: 
-          - name: "飯國 洋二"
-            dept: "基礎工学研究科"
-          - name: "松下 康之、前川 卓也"
-            dept: "情報科学研究科"
-          - name: "槇原 靖"
-            dept: "高等共創研究院"
-          - name: "大倉 史生、駒谷 和範、武田 龍、Holland Matthew"
-            dept: "産業科学研究所"
-      - name: "知能ロボティクス、ヒューマンインターフェイス"
+          - name: "髙木 淳一"
+            dept: "蛋白質研究所"
+  - name: "認知脳サイエンス部門"
+    field: 
+      - name: ""
         staff:
-          - name: "佐藤 宏介、岩井 大輔"
+          - name: "浅田?稔"
+            dept: "先導的学際研究機構"
+          - name: "石黒 浩、吉川 雄一郎"
             dept: "基礎工学研究科"
-          - name: "竹村 治雄、間下 以大、浦西 友樹、白井 詩沙香"
-            dept: "サイバーメディアセンター"
-  - name: "ビッグデータ社会技術部門"
-    field:
-      - name: "知的財産、倫理・法・社会の諸問題、セキュリティ"
+  - name: "人間総合デザイン部門"
+    field: 
+      - name: ""
         staff:
-          - name: "大久保 規子"
-            dept: "法学研究科"
-          - name: "宮地 充子"
+          - name: "吉川?徹、平井 啓"
+            dept: "人間科学研究科"
+          - name: "中田?研"
+            dept: "医学系研究科"
+          - name: "武田 裕之"
             dept: "工学研究科"
-          - name: "平川 秀幸、八木 絵香"
-            dept: "COデザインセンター"
-          - name: "茶園 成樹"
-            dept: "高等司法研究科" 
-  - name: "サービス創出・支援部門"
-    field:
-      - name: "ネットワーク、データベース、セキュリティ、計算機システム"
+  - name: "システムデザイン部門"
+    field: 
+      - name: ""
         staff:
-          - name: "下條 真司、義久 智樹、伊達 進、小島 一秀"
-            dept: "サイバーメディアセンター"
-          - name: "山口 弘純、内山 彰、原 隆浩"
-            dept: "情報科学研究科"
-          - name: "廣森 聡仁"
-            dept: "経営企画オフィス"
+          - name: "下田?吉之"
+            dept: "工学研究科"
+  - name: "機能デザイン部門"
+    field: 
+      - name: ""
+        staff:
+          - name: "奥村?光隆"
+            dept: "理学研究科"
+          - name: "中野?貴由"
+            dept: "工学研究科"
+          - name: "桐原 聡秀"
+            dept: "接合科学研究所"
+  - name: "光・量子デザイン部門"
+    field: 
+      - name: ""
+        staff:
+          - name: "兒玉?了祐"
+            dept: "工学研究科"
+          - name: "井上?康志"
+            dept: "生命機能研究科"
+          - name: "中野 貴志、岩崎 昌子"
+            dept: "核物理研究センター"
+  - name: "デジタルヒューマニティーズ部門"
+    field: 
+      - name: ""
+        staff:
+          - name: "三宅?真紀、田畑 智司、永田?靖、藤岡?穣、藤川 隆男"
+            dept: "人文学研究科"
+          - name: "藤本 愼司"
+            dept: "工学研究科"
+
 ---
