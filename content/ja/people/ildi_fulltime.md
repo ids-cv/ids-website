@@ -21,19 +21,19 @@ people:
     field: 
       - name: ""
         staff:
+          - name: "小寺 秀俊"
+            role: "特任教授"
+
           - name: "魚森 謙也"
             role: "特任教授"
 
           - name: "中村 亨"
             role: "特任教授"
 
-          - name: "小寺 秀俊"
-            role: "特任教授"
+          - name: "岡村 和男"
+            role: "産学共創教授"
 
           - name: "吉川 則之"
-            role: "特任研究員"
-
-          - name: "岡村 和男"
             role: "特任研究員"
 
           - name: "横山 美和"
