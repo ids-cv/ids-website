@@ -23,8 +23,6 @@ people:
         staff:
           - name: "加藤 久明"
             dept: "産業科学研究所"
-          - name: "菊田 隆"
-            dept: "経営企画オフィス"
 
 
 ---

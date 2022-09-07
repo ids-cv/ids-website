@@ -1,8 +1,8 @@
 ---
 # Display name
-title: "福井 宏祐"
+title: "福井宏祐"
 
-weight: 50
+weight: 2020200
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -16,8 +16,6 @@ role: 博士前期課程学生
 
 # Organizations/Affiliations
 organizations:
-- name: "データビリティフロンティア機構"
-  url: "http://www.ids.osaka-u.ac.jp/"
 - name: "情報科学研究科"
   url: "http://www.ist.osaka-u.ac.jp/"
 - name: "大阪大学"
@@ -69,7 +67,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 学生
+- Almuni
 ---
 ### Contact
 - email: fukui@am.sanken.

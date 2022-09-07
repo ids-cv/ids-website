@@ -1,8 +1,7 @@
 ---
 # Display name
 title: "Liangzhi Li"
-
-wegith: 50
+weight: 40
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -12,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Specially-Appointed Researcher/Fellow
+role: Specially-Appointed Assistant Professor
 group: Artificial Intelligence and Mathematics
 
 # Organizations/Affiliations

@@ -71,7 +71,7 @@ diagram = false
 # Privacy pack
 #   Show a cookie consent message to visitors
 #   Anonymize IP in Google Analytics (if enabled)
-privacy_pack = false
+privacy_pack = true
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
@@ -94,7 +94,7 @@ fax   = "06-6105-6075"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "山田丘2-8 テクノアライアンス棟C503", city = "吹田", region = "大阪", postcode = "〒565-0871", country = "日本", country_code = "JA"}
+address = {street = "山田丘2-8 テクノアライアンス棟C503", city = "吹田市", region = "大阪府", postcode = "〒565-0871", country = "日本", country_code = "JA"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -278,7 +278,7 @@ plugins_js  = []
 ############################
 [marketing]
   google_analytics = ""
-  google_tag_manager = ""
+  google_tag_manager = "GTM-532ZQ9G"
 
 ############################
 ## Content Management System

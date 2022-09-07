@@ -1,0 +1,45 @@
+{{/* Name Only People Widget */}}
+
+{{/* Initialise */}}
+{{ $ := .root }}
+{{ $page := .page }}
+
+<div class="row justify-content-center people-widget">
+  {{ with $page.Title }}
+  <div class="col-12  text-center text-lg-left">
+    <h1>{{ . | markdownify | emojify }}</h1>
+  </div>
+  {{ end }}
+
+  {{ with $page.Params.subtitle }}
+  <div class="col-12 col-lg-8 offset-lg-4 text-center text-lg-left">
+    <h2>{{ . | markdownify }}</h2>
+  </div>
+  {{ end }}
+  <div class="col-12"><br /></div>
+</div>
+
+<div class="row justify-content-center people-widget">
+  {{ range $page.Params.people }}
+  <div class="col-12 col-lg-1 text-center text-lg-left"> </div>
+  <div class="col-12 col-lg-11 text-center text-lg-left">
+    <h2>{{ .name | markdownify }}</h2>
+  </div>
+  {{ range .field }}
+  <div class="col-12 col-lg-1 text-center text-lg-right"> </div>
+  <div class="col-12 col-lg-11 text-center text-lg-left">
+    <h2 style="font-size: 100%;">{{ .name | markdownify }}</h2>
+  </div>
+  {{ range .staff }}
+  <div class="col-12 col-lg-4 text-center text-lg-right"> 
+    <p>{{ .role | markdownify }}</p>
+  </div>
+  <div class="col-12 col-lg-8 text-center text-lg-left">
+    <p>{{ .name | markdownify }}</p>
+  </div>
+  {{ end }}
+  {{ end }}
+  {{ end }}
+</div>
+
+

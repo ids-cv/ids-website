@@ -15,10 +15,13 @@ autolink = true
 #   0: Disable email form
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
-email_form = 2
+email_form = 0
 
 # Netlify form settings.
 [netlify]
   captcha = false  # Enable CAPTCHA challenge to reduce spam?
 +++
 
+共同研究などに関するお問い合わせは、下記の電子メールアドレス等をご利用ください。
+
+お問い合わせに際して頂いた個人情報はその回答にのみ利用し、他の目的で利用することはありません。

@@ -1,7 +1,6 @@
 ---
 # Display name
 title: "Manisha Verma"
-
 weight: 50
 
 # Username (this should match the folder name and the name on publications)
@@ -76,8 +75,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Fulltime
+- Almuni
 ---
 
 ### Contact

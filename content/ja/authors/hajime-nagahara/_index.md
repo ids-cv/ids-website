@@ -1,12 +1,12 @@
 ---
 # Display name
-title: "長原 一"
+title: 長原一
 
 weight: 10
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "hajime-nagahara"
+- hajime-nagahara
 
 # Is this the primary user of the site?
 superuser: false
@@ -56,12 +56,12 @@ social:
   show_link: false
 - icon: home
   icon_pack: fas
-  link: http://www.ids.osaka-u.ac.jp/nagahara/
+  link: https://researchmap.jp/read0054705/
   str: personal
   show_link: true
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=CZyXjREAAAAJ&hl=ja
+  link: "https://scholar.google.com/citations?user=CZyXjREAAAAJ&hl=ja"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,12 +69,12 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 教員
-- 専任
+- "教員"
+- "専任"
 ---
 
 ### Contact
 - email: nagahara@ids.
-- webpage: https://www.ids.osaka-u.ac.jp/nagahara/
+- webpage: https://researchmap.jp/read0054705
 
 Please add `osaka-u.ac.jp` to complete email address
