@@ -1,7 +1,7 @@
 ---
 title: Visually grounded paraphrase extraction
 date: '2018-01-01'
-publishDate: '2022-09-05T07:39:59.300815Z'
+publishDate: '2022-10-03T02:44:02.161361Z'
 authors:
 - Chenhui Chu
 - Mayu Otani

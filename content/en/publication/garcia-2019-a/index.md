@@ -1,7 +1,7 @@
 ---
 title: Context-aware embeddings for automatic art analysis
 date: '2019-01-01'
-publishDate: '2022-09-05T07:39:52.122866Z'
+publishDate: '2022-10-03T02:43:54.892873Z'
 authors:
 - Noa Garcia
 - Benjamin Renoust

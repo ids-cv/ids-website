@@ -2,7 +2,7 @@
 title: Metric for automatic machine translation evaluation based on universal sentence
   representations
 date: '2018-01-01'
-publishDate: '2022-09-05T07:39:51.833194Z'
+publishDate: '2022-10-03T02:43:54.597260Z'
 authors:
 - Hiroki Shimanaka
 - Tomoyuki Kajiwara

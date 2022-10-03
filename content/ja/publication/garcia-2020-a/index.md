@@ -1,7 +1,7 @@
 ---
 title: 'KnowIT VQA: Answering knowledge-based questions about videos'
 date: '2020-02-01'
-publishDate: '2022-09-05T07:39:59.006523Z'
+publishDate: '2022-10-03T02:44:01.846720Z'
 authors:
 - Noa Garcia
 - Mayu Otani

@@ -2,7 +2,7 @@
 title: Application of deep learning (3-dimensional convolutional neural network) for
   the prediction of pathological invasiveness in lung adenocarcinoma
 date: '2019-06-01'
-publishDate: '2022-09-05T07:40:01.728990Z'
+publishDate: '2022-10-03T02:44:04.695242Z'
 authors:
 - Masahiro Yanagawa
 - Hirohiko Niioka

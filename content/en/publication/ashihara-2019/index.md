@@ -1,7 +1,7 @@
 ---
 title: Contextualized context2vec
 date: '2019-01-01'
-publishDate: '2022-09-05T07:39:51.466982Z'
+publishDate: '2022-10-03T02:43:54.224813Z'
 authors:
 - Kazuki Ashihara
 - Tomoyuki Kajiwara

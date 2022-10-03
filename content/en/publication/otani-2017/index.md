@@ -1,7 +1,7 @@
 ---
 title: Fine-grained video retrieval for multi-clip video
 date: '2017-01-01'
-publishDate: '2022-09-05T07:39:47.889947Z'
+publishDate: '2022-10-03T02:43:50.580126Z'
 authors:
 - Mayu Otani
 - Yuta Nakashima

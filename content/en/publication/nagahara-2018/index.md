@@ -1,7 +1,7 @@
 ---
 title: Space-time-brightness sampling using an adaptive pixel-wise coded exposure
 date: '2018-12-01'
-publishDate: '2022-09-05T07:39:50.447535Z'
+publishDate: '2022-10-03T02:43:53.183735Z'
 authors:
 - Hajime Nagahara
 - Dengyu Liu

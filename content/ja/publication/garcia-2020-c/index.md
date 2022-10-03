@@ -1,7 +1,7 @@
 ---
 title: Knowledge-based video question answering with unsupervised scene descriptions
 date: '2020-08-01'
-publishDate: '2022-09-05T07:39:56.644419Z'
+publishDate: '2022-10-03T02:43:59.425965Z'
 authors:
 - Noa Garcia
 - Yuta Nakashima

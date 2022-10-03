@@ -1,7 +1,7 @@
 ---
 title: Rethinking the evaluation of video summaries
 date: '2019-01-01'
-publishDate: '2022-09-05T07:39:59.667425Z'
+publishDate: '2022-10-03T02:44:02.554611Z'
 authors:
 - Mayu Otani
 - Yuta Nakashima

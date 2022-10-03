@@ -1,7 +1,7 @@
 ---
 title: 'iParaphrasing: Extracting visually grounded paraphrases via an image'
 date: '2018-06-01'
-publishDate: '2022-09-05T07:39:56.937346Z'
+publishDate: '2022-10-03T02:43:59.721089Z'
 authors:
 - Chenhui Chu
 - Mayu Otani

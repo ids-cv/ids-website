@@ -1,7 +1,7 @@
 ---
 title: OCR誤り訂正を⽤いた歴史新聞データからのコーパス構築
 date: '2020-05-01'
-publishDate: '2022-09-05T07:39:56.502906Z'
+publishDate: '2022-10-03T02:43:59.283330Z'
 authors:
 - ⽥中 昂志
 - Chenhui Chu

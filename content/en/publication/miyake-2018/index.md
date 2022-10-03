@@ -1,7 +1,7 @@
 ---
 title: Graphical classification of DNA sequences of HLA alleles by deep learning
 date: '2018-01-01'
-publishDate: '2022-09-05T07:39:51.540649Z'
+publishDate: '2022-10-03T02:43:54.297647Z'
 authors:
 - J. Miyake
 - Y. Kaneshita

@@ -1,7 +1,7 @@
 ---
 title: High-speed imaging using CMOS image sensor with quasi pixel-wise exposure
 date: '2016-06-01'
-publishDate: '2022-09-05T07:39:49.576869Z'
+publishDate: '2022-10-03T02:43:52.301483Z'
 authors:
 - Hajime Nagahara
 - Toshiki Sonoda

@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-05T07:39:54.070106Z'
+publishDate: '2022-10-03T02:43:56.860461Z'
 publication_types:
 - '1'
 abstract: 'Video question answering (VideoQA) is designed to answer a given question

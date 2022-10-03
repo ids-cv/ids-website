@@ -1,7 +1,7 @@
 ---
 title: 'The laughing machine: Predicting humor in video'
 date: '2021-01-01'
-publishDate: '2022-09-05T07:39:46.209989Z'
+publishDate: '2022-10-03T02:43:48.867402Z'
 authors:
 - Yuta Kayatani
 - Zekun Yang

@@ -1,7 +1,7 @@
 ---
 title: Video meets knowledge in visual question answering
 date: '2019-01-01'
-publishDate: '2022-09-05T07:39:50.961815Z'
+publishDate: '2022-10-03T02:43:53.709333Z'
 authors:
 - Noa Garcia
 - Chenhui Chu

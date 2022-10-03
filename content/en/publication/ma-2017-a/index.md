@@ -1,7 +1,7 @@
 ---
 title: Adapting local features for face detection in thermal image
 date: '2017-12-01'
-publishDate: '2022-09-05T07:39:51.686527Z'
+publishDate: '2022-10-03T02:43:54.445380Z'
 authors:
 - Chao Ma
 - Ngo Thanh Trung

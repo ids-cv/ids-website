@@ -2,7 +2,7 @@
 title: Metric for automatic machine translation evaluation based on pre-trained sentence
   embeddings
 date: '2019-09-01'
-publishDate: '2022-09-05T07:39:57.675673Z'
+publishDate: '2022-10-03T02:44:00.481906Z'
 authors:
 - Hiroki Shimanaka
 - Tomoyuki Kajiwara

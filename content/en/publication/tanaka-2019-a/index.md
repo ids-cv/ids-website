@@ -1,7 +1,7 @@
 ---
 title: 歴史新聞データからのコーパス構築
 date: '2019-03-01'
-publishDate: '2022-09-05T07:39:47.455839Z'
+publishDate: '2022-10-03T02:43:50.131750Z'
 authors:
 - 田中 昂志
 - Chenhui Chu

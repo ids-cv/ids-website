@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-05T07:39:54.696095Z'
+publishDate: '2022-10-03T02:43:57.482908Z'
 publication_types:
 - '1'
 abstract: We annotate 17,000 SNS posts with both the writer’s subjective emotional

@@ -1,7 +1,7 @@
 ---
 title: Action recognition from a single coded image
 date: '2020-01-01'
-publishDate: '2022-09-05T07:39:47.026771Z'
+publishDate: '2022-10-03T02:43:49.698619Z'
 authors:
 - Tadashi Okawara
 - Michitaka Yoshida

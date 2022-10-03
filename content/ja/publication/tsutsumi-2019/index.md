@@ -2,7 +2,7 @@
 title: Efficacy of Novel Multispectral Imaging Device to Determine Anastomosis for
   Esophagogastrostomy
 date: '2019-01-01'
-publishDate: '2022-09-05T07:39:57.379170Z'
+publishDate: '2022-10-03T02:44:00.166254Z'
 authors:
 - R. Tsutsumi
 - T. Ikeda

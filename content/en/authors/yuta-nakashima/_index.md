@@ -48,7 +48,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
   str: "n-yuta@ids."
   show_link: false
 - icon: phone

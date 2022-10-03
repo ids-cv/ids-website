@@ -2,7 +2,7 @@
 title: Deep-UV excitation fluorescence microscopy for detection of lymph node metastasis
   using deep neural network
 date: '2019-12-01'
-publishDate: '2022-09-05T07:39:58.341694Z'
+publishDate: '2022-10-03T02:44:01.169225Z'
 authors:
 - Tatsuya Matsumoto
 - Hirohiko Niioka

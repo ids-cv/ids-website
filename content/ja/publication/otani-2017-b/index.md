@@ -1,7 +1,7 @@
 ---
 title: Video question answering to find a desired video eegment
 date: '2017-01-01'
-publishDate: '2022-09-05T07:39:58.119393Z'
+publishDate: '2022-10-03T02:44:00.939537Z'
 authors:
 - Mayu Otani
 - Yuta Nakashima

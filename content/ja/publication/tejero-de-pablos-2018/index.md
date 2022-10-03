@@ -2,7 +2,7 @@
 title: Summarization of user-generated sports video by using deep action recognition
   features
 date: '2018-08-01'
-publishDate: '2022-09-05T07:39:58.190828Z'
+publishDate: '2022-10-03T02:44:01.017004Z'
 authors:
 - Antonio Tejero-De-Pablos
 - Yuta Nakashima

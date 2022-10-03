@@ -1,7 +1,7 @@
 ---
 title: Facial expression recognition with skip-connection to leverage low-level features
 date: '2019-01-01'
-publishDate: '2022-09-05T07:39:50.668592Z'
+publishDate: '2022-10-03T02:43:53.409294Z'
 authors:
 - Manisha Verma
 - Hirokazu Kobori

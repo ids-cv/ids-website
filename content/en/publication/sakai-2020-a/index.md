@@ -1,7 +1,7 @@
 ---
 title: Acquiring dynamic light fields through coded aperture camera
 date: '2020-08-01'
-publishDate: '2022-09-05T07:39:46.881022Z'
+publishDate: '2022-10-03T02:43:49.551176Z'
 authors:
 - Kohei Sakai
 - Keita Takahashi

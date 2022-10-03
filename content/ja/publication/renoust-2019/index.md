@@ -1,7 +1,7 @@
 ---
 title: Historical and modern features for Buddha statue classification
 date: '2019-01-01'
-publishDate: '2022-09-05T07:39:57.529823Z'
+publishDate: '2022-10-03T02:44:00.328737Z'
 authors:
 - B. Renoust
 - M.O. Franca

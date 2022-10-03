@@ -1,7 +1,7 @@
 ---
 title: BERT representations for video question answering
 date: '2020-01-01'
-publishDate: '2022-09-05T07:39:51.976987Z'
+publishDate: '2022-10-03T02:43:54.746010Z'
 authors:
 - Zekun Yang
 - Noa Garcia

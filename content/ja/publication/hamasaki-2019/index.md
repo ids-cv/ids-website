@@ -1,7 +1,7 @@
 ---
 title: A Coded Aperture for Watermark Extraction from Defocused Images
 date: '2019-01-01'
-publishDate: '2022-09-05T07:40:01.064751Z'
+publishDate: '2022-10-03T02:44:03.985051Z'
 authors:
 - H. Hamasaki
 - S. Takeshita
