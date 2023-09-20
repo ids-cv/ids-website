@@ -2,7 +2,7 @@
 title: Convolutional Neural Network Can Recognize Drug Resistance of Single Cancer
   Cells
 date: '2020-04-01'
-publishDate: '2022-10-03T02:43:52.226268Z'
+publishDate: '2023-09-20T07:25:31.608025Z'
 authors:
 - Kiminori Yanagisawa
 - Masayasu Toratani

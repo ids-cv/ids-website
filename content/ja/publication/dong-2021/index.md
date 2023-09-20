@@ -1,7 +1,7 @@
 ---
 title: Cross-lingual visual grounding
 date: '2020-12-01'
-publishDate: '2022-10-03T02:43:57.855373Z'
+publishDate: '2023-09-20T07:25:37.908057Z'
 authors:
 - Wenjian Dong
 - Mayu Otani

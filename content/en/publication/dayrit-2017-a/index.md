@@ -1,7 +1,7 @@
 ---
 title: Increasing pose comprehension through augmented reality reenactment
 date: '2017-01-01'
-publishDate: '2022-10-03T02:43:54.521942Z'
+publishDate: '2023-09-20T07:25:33.548506Z'
 authors:
 - Fabian Lorenzo Dayrit
 - Yuta Nakashima

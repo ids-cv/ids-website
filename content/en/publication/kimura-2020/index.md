@@ -2,7 +2,7 @@
 title: Warmer Environments Increase Implicit Mental Workload Even If Learning Efficiency
   Is Enhanced
 date: '2020-01-01'
-publishDate: '2022-10-03T02:43:55.052294Z'
+publishDate: '2023-09-20T07:25:33.985449Z'
 authors:
 - T. Kimura
 - N. Takemura

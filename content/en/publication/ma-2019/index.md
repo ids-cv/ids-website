@@ -1,7 +1,7 @@
 ---
 title: Fall detection using optical level anonymous image sensing system
 date: '2019-02-01'
-publishDate: '2022-10-03T02:43:51.032214Z'
+publishDate: '2023-09-20T07:25:30.611241Z'
 authors:
 - Chao Ma
 - Atsushi Shimada

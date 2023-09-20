@@ -2,7 +2,7 @@
 title: Novel view synthesis with light-weight view-dependent texture mapping for a
   stereoscopic HMD
 date: '2017-08-01'
-publishDate: '2022-10-03T02:43:55.129778Z'
+publishDate: '2023-09-20T07:25:34.050541Z'
 authors:
 - Thiwat Rongsirigul
 - Yuta Nakashima

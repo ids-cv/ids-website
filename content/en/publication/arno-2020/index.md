@@ -2,7 +2,7 @@
 title: Following Embryonic Stem Cells, Their Differentiated Progeny, and Cell-State
   Changes During iPS Reprogramming by Raman Spectroscopy
 date: '2020-10-01'
-publishDate: '2022-10-03T02:43:48.558870Z'
+publishDate: '2023-09-20T07:25:28.571388Z'
 authors:
 - Arno Germond
 - Yulia Panina

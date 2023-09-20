@@ -1,7 +1,7 @@
 ---
 title: Mixed features for face detection in thermal image
 date: '2017-01-01'
-publishDate: '2022-10-03T02:43:54.001195Z'
+publishDate: '2023-09-20T07:25:33.109957Z'
 authors:
 - C. Ma
 - N.T. Trung

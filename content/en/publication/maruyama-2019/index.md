@@ -2,7 +2,7 @@
 title: A 3-D Display Pipeline from Coded-Aperture Camera to Tensor Light-Field Display
   Through CNN
 date: '2019-09-01'
-publishDate: '2022-10-03T02:43:54.152735Z'
+publishDate: '2023-09-20T07:25:33.234508Z'
 authors:
 - Keita Maruyama
 - Yasutaka Inagaki

@@ -1,7 +1,7 @@
 ---
 title: Adaptive background model registration for moving cameras
 date: '2017-09-01'
-publishDate: '2022-10-03T02:44:01.626799Z'
+publishDate: '2023-09-20T07:25:41.024702Z'
 authors:
 - Tsubasa Minematsu
 - Hideaki Uchiyama

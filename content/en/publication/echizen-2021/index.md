@@ -1,7 +1,7 @@
 ---
 title: Generation and detection of media clones
 date: '2021-01-01'
-publishDate: '2022-10-03T02:43:48.792204Z'
+publishDate: '2023-09-20T07:25:28.760381Z'
 authors:
 - Isao Echizen
 - Noboru Babaguchi

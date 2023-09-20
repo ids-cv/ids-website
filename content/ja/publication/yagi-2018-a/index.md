@@ -1,7 +1,7 @@
 ---
 title: PCA-coded aperture for light field photography
 date: '2018-02-01'
-publishDate: '2022-10-03T02:43:59.645748Z'
+publishDate: '2023-09-20T07:25:39.402745Z'
 authors:
 - Yusuke Yagi
 - Keita Takahashi

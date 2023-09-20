@@ -1,7 +1,7 @@
 ---
 title: Reflectance and Shape Estimation with a Light Field Camera Under Natural Illumination
 date: '2019-12-01'
-publishDate: '2022-10-03T02:44:01.927187Z'
+publishDate: '2023-09-20T07:25:41.271630Z'
 authors:
 - Thanh Trung Ngo
 - Hajime Nagahara

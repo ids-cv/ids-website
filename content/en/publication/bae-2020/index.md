@@ -1,7 +1,7 @@
 ---
 title: 5D Light Field Synthesis from a Monocular Video
 date: '2020-01-01'
-publishDate: '2022-10-03T02:43:48.409168Z'
+publishDate: '2023-09-20T07:25:28.448582Z'
 authors:
 - Kyuho Bae
 - Andre Ivan

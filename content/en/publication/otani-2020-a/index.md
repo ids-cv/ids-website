@@ -1,7 +1,7 @@
 ---
 title: Visually grounded paraphrase identification via gating and phrase localization
 date: '2020-09-01'
-publishDate: '2022-10-03T02:43:49.094786Z'
+publishDate: '2023-09-20T07:25:29.009413Z'
 authors:
 - Mayu Otani
 - Chenhui Chu

@@ -1,7 +1,7 @@
 ---
 title: Improving topic modeling through homophily for legal documents
 date: '2020-10-01'
-publishDate: '2022-10-03T02:43:58.158218Z'
+publishDate: '2023-09-20T07:25:38.160367Z'
 authors:
 - Kazuki Ashihara
 - Cheikh Brahim El Vaigh

@@ -2,7 +2,7 @@
 title: 'ContextNet: representation and exploration for painting classification and
   retrieval in context'
 date: '2020-01-01'
-publishDate: '2022-10-03T02:43:54.818813Z'
+publishDate: '2023-09-20T07:25:33.797227Z'
 authors:
 - Noa Garcia
 - Benjamin Renoust

@@ -1,7 +1,7 @@
 ---
 title: Contextualized multi-sense word embedding
 date: '2019-12-01'
-publishDate: '2022-10-03T02:44:04.544993Z'
+publishDate: '2023-09-20T07:25:43.394760Z'
 authors:
 - Kazuki Ashihara
 - Tomoyuki Kajiwara

@@ -2,7 +2,7 @@
 title: Finding important people in a video using deep neural networks with conditional
   random fields
 date: '2018-10-01'
-publishDate: '2022-10-03T02:43:51.481165Z'
+publishDate: '2023-09-20T07:25:30.985011Z'
 authors:
 - Mayu Otani
 - Atsushi Nishida

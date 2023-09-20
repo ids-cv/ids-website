@@ -1,7 +1,7 @@
 ---
 title: Unsupervised Video Summarization using Deep Video Features
 date: '2017-01-01'
-publishDate: '2022-10-03T02:44:01.774484Z'
+publishDate: '2023-09-20T07:25:41.149592Z'
 authors:
 - Mayu Otani
 - Yuta Nakashima

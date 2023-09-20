@@ -2,7 +2,7 @@
 title: 'RUSE: Regressor using sentence embeddings for automatic machine translation
   evaluation'
 date: '2018-01-01'
-publishDate: '2022-10-03T02:43:50.654777Z'
+publishDate: '2023-09-20T07:25:30.300290Z'
 authors:
 - Hiroki Shimanaka
 - Tomoyuki Kajiwara

@@ -1,7 +1,7 @@
 ---
 title: Preventing fake information generation against media clone attacks
 date: '2021-01-01'
-publishDate: '2022-10-03T02:43:57.931867Z'
+publishDate: '2023-09-20T07:25:37.971542Z'
 authors:
 - Noboru Babaguchi
 - Isao Echizen

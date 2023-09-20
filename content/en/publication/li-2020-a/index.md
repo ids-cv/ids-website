@@ -1,7 +1,7 @@
 ---
 title: Joint learning of vessel segmentation and artery/vein classification with post-processing
 date: '2020-01-01'
-publishDate: '2022-10-03T02:43:54.977172Z'
+publishDate: '2023-09-20T07:25:33.922580Z'
 authors:
 - Liangzhi Li
 - Manisha Verma

@@ -1,7 +1,7 @@
 ---
 title: 'Legal information as a complex network: Improving topic modeling through homophily'
 date: '2019-11-01'
-publishDate: '2022-10-03T02:43:53.038300Z'
+publishDate: '2023-09-20T07:25:32.303909Z'
 authors:
 - Kazuki Ashihara
 - Chenhui Chu

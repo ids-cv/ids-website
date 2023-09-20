@@ -2,7 +2,7 @@
 title: Improvement of nerve imaging speed with coherent anti-Stokes Raman scattering
   rigid endoscope using deep-learning noise reduction
 date: '2020-09-01'
-publishDate: '2022-10-03T02:43:58.535668Z'
+publishDate: '2023-09-20T07:25:38.484205Z'
 authors:
 - Naoki Yamato
 - Hirohiko Niioka

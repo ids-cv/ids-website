@@ -1,7 +1,7 @@
 ---
 title: 'Multimodal learning analytics: Society 5.0 project in Japan'
 date: '2019-03-01'
-publishDate: '2022-10-03T02:44:03.154108Z'
+publishDate: '2023-09-20T07:25:42.269748Z'
 authors:
 - Shizuka Shirai
 - Noriko Takemura

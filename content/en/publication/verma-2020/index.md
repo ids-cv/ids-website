@@ -1,7 +1,7 @@
 ---
 title: 'Yoga-82: a new dataset for fine-grained classification of human poses'
 date: '2020-04-01'
-publishDate: '2022-10-03T02:43:53.333169Z'
+publishDate: '2023-09-20T07:25:32.553599Z'
 authors:
 - Manisha Verma
 - Sudhakar Kumawat

@@ -2,7 +2,7 @@
 title: Representing a partially observed non-rigid 3D human using eigen-texture and
   eigen-deformation
 date: '2018-11-01'
-publishDate: '2022-10-03T02:43:50.880213Z'
+publishDate: '2023-09-20T07:25:30.483836Z'
 authors:
 - Ryosuke Kimura
 - Akihiko Sayo

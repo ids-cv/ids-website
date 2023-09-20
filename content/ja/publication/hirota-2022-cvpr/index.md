@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-03T02:43:56.477973Z'
+publishDate: '2023-09-20T07:25:36.747086Z'
 publication_types:
 - '1'
 abstract: 'Vision-and-language tasks have increasingly drawn more attention as a means
@@ -51,5 +51,5 @@ abstract: 'Vision-and-language tasks have increasingly drawn more attention as a
   the dataset collection process.'
 publication: '*Proc.~IEEE/CVF Conference on Computer Vision and Pattern Recognition
   (CVPR)*'
-url_pdf: https://facctconference.org/static/pdfs_2022/facct22-102.pdf
+url_pdf: https://openaccess.thecvf.com/content/CVPR2022/papers/Hirota_Quantifying_Societal_Bias_Amplification_in_Image_Captioning_CVPR_2022_paper.pdf
 ---

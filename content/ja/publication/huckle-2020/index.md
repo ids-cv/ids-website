@@ -1,7 +1,7 @@
 ---
 title: Demographic influences on contemporary art with unsupervised style embeddings
 date: '2020-08-01'
-publishDate: '2022-10-03T02:43:58.610900Z'
+publishDate: '2023-09-20T07:25:38.547013Z'
 authors:
 - Nikolai Huckle
 - Noa Garcia

@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-03T02:43:56.936390Z'
+publishDate: '2023-09-20T07:25:37.137076Z'
 publication_types:
 - '1'
 abstract: Deep hashing has been widely used to approximate nearest-neighbor search

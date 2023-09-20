@@ -2,7 +2,7 @@
 # Display name
 title: "新岡宏彦"
 
-weight: 20
+weight: 21
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: 特任准教授
+role: 招へい准教授
 group: 知能情報基盤部門
 
 # Organizations/Affiliations
@@ -66,8 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- 研究員
-- 専任
+- 招へい研究員
 ---
 
 ### Contact

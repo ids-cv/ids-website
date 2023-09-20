@@ -5,7 +5,7 @@ _build:
   list: never
   publishResources: false
 date: '2022-06-01'
-publishDate: '2022-10-03T02:43:47.349027Z'
+publishDate: '2023-09-20T07:25:27.567089Z'
 authors:
 - Riku Togashi
 - Mayu Otani

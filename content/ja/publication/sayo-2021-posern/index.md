@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-03T02:43:57.254604Z'
+publishDate: '2023-09-20T07:25:37.394449Z'
 publication_types:
 - '1'
 abstract: We propose a new 2D pose refinement network that learns to predict the human

@@ -5,7 +5,7 @@ _build:
   list: never
   publishResources: false
 date: '2022-06-01'
-publishDate: '2022-10-03T02:43:47.274390Z'
+publishDate: '2023-09-20T07:25:27.501484Z'
 authors:
 - Yusuke Hirota
 - Yuta Nakashima
@@ -32,6 +32,6 @@ abstract: 'Vision-and-language tasks have increasingly drawn more attention as a
 featured: false
 publication: '*Proc.~IEEE/CVF Conference on Computer Vision and Pattern Recognition
   (CVPR)*'
-url_pdf: https://facctconference.org/static/pdfs_2022/facct22-102.pdf
+url_pdf: https://openaccess.thecvf.com/content/CVPR2022/papers/Hirota_Quantifying_Societal_Bias_Amplification_in_Image_Captioning_CVPR_2022_paper.pdf
 ---
 

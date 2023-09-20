@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-03T02:43:57.406588Z'
+publishDate: '2023-09-20T07:25:37.529052Z'
 publication_types:
 - '1'
 abstract: The impressive performances of pre-trained visually grounded language models

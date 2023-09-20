@@ -1,7 +1,7 @@
 ---
 title: Incremental structural modeling on sparse visual SLAM
 date: '2017-01-01'
-publishDate: '2022-10-03T02:43:59.941175Z'
+publishDate: '2023-09-20T07:25:39.648100Z'
 authors:
 - R. Roberto
 - H. Uchiyama

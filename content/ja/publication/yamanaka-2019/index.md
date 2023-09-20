@@ -2,7 +2,7 @@
 title: Excitation of erbium-doped nanoparticles in 1550-nm wavelength region for deep
   tissue imaging with reduced degradation of spatial resolution
 date: '2019-07-01'
-publishDate: '2022-10-03T02:44:00.406314Z'
+publishDate: '2023-09-20T07:25:40.025777Z'
 authors:
 - Masahito Yamanaka
 - Hirohiko Niioka

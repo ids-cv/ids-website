@@ -1,7 +1,7 @@
 ---
 title: YOLO in the Dark - Domain adaptation method for merging multiple models -
 date: '2020-08-01'
-publishDate: '2022-10-03T02:43:58.835263Z'
+publishDate: '2023-09-20T07:25:38.735608Z'
 authors:
 - Yukihiro Sasagawa
 - Hajime Nagahara

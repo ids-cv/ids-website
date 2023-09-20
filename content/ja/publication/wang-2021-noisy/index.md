@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-10-03T02:43:56.249213Z'
+publishDate: '2023-09-20T07:25:36.557488Z'
 publication_types:
 - '2'
 abstract: Semantic video segmentation is a key challenge for various applications.
