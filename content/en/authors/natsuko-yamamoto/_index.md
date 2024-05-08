@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Specially-Appointed Associate Professor
+role: Associate Professor
 group: Ethical, Legal, and Social Issues
 
 # Organizations/Affiliations
