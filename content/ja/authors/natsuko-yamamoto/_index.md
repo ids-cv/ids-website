@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: 特任講師
+role: 准教授
 group: ビッグデータ社会技術部門
 
 # Organizations/Affiliations
