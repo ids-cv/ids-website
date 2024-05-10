@@ -21,7 +21,7 @@ people:
     field: 
       - name: ""
         staff:
-          - name: "八木 康史、沼尾 正行、福井 健一"
+          - name: "八木 康史、福井 健一"
             dept: "産業科学研究所"
 
           - name: "浅田 稔"
