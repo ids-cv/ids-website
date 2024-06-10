@@ -11,6 +11,7 @@ header:
 年度ごとの活動報告書をダウンロードいただけます。
 
 ## 年次報告書
+- [2023年度 年次報告書](https://drive.google.com/uc?id=1Wr6hBtgROrrAwB7gZZzuPGwu3xdyFF6a)
 - [2022年度 年次報告書](https://drive.google.com/uc?id=1CRnlhALohFlFBlNFAR-n6BhGeKEvfRtg)
 - [2021年度 年次報告書](https://drive.google.com/uc?id=1AmYGkOw03UCM6mFQKUUSL1VO79T-ueOe)
 - [2020年度 年次報告書](https://drive.google.com/uc?id=1LvC_1P75E04ZOnM4YKw25vGEbMpPP4Hp)
