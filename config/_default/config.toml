@@ -35,7 +35,7 @@ defaultContentLanguageInSubdir = true
 removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
 
 summaryLength = 30  # Listing summary length in words. Also, see `abstract_length` in `params.toml`.
-paginate = 10  # Number of items per page in paginated lists.
+# paginate = 10  # Number of items per page in paginated lists.
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -81,6 +81,28 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   category = "categories"
   publication_type = "publication_types"
   author = "authors"
+
+[params]
+    publicationtypes = [
+      "pub_uncat",
+      "pub_conf",
+      "pub_journal",
+      "pub_preprint",
+      "pub_report",
+      "pub_book",
+      "pub_book_section",
+      "pub_thesis",
+      "pub_patent"]
+[params.publicationMap]
+    pub_uncat = "uncat"
+    pub_conf = "paper-conference"
+    pub_journal = "article-journal"
+    pub_preprint = "preprint"
+    pub_report = "report"
+    pub_book = "book"
+    pub_book_section = "book_section"
+    pub_thesis = "thesis"
+    pub_patent = "patent"
 
 # Related content.
 [related]

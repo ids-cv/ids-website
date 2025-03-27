@@ -8,33 +8,3 @@
   url = "/"
   weight = 10
 
-[[main]]
-  name = "Message"
-  url = "/message"
-  weight = 20
-
-[[main]]
-  name = "Organization"
-  url = "/organization"
-  weight = 30
-
-[[main]]
-  name = "People"
-  url = "/people"
-  weight = 40
-
-[[main]]
-  name = "Projects"
-  url = "/projects"
-  weight = 50
-
-[[main]]
-  name = "Publications"
-  url = "/publication"
-  weight = 60
-
-[[main]]
-  name = "Access"
-  url = "/access"
-  weight = 70
-

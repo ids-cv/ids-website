@@ -25,8 +25,8 @@ do
     done
 done
 
-academic import --bibtex bibtex/aim.bib --overwrite --normalize --publication-dir content/en/publication
-academic import --bibtex bibtex/aim.bib --overwrite --normalize --publication-dir content/ja/publication
+academic import --bibtex modules/islab-website/bibtex/islab.bib --overwrite --normalize --publication-dir content/en/publication
+academic import --bibtex modules/islab-website/bibtex/islab.bib --overwrite --normalize --publication-dir content/ja/publication
 #academic import --bibtex bibtex/ict.bib --overwrite --normalize --publication-dir publication
 #academic import --bibtex bibtex/ict.bib --overwrite --normalize --publication-dir ja/publication
 #academic import --bibtex bibtex/elsi.bib --overwrite --normalize --publication-dir publication

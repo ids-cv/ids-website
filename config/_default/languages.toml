@@ -28,37 +28,3 @@
     url = "/"
     weight = 10
 
-  [[ja.menu.main]]
-    name = "ご挨拶"
-    url = "/message"
-    weight = 20
-
-  [[ja.menu.main]]
-    name = "組織"
-    url = "/organization"
-    weight = 30
-
-  [[ja.menu.main]]
-    name = "スタッフ"
-    url = "/people"
-    weight = 40
-
-  [[ja.menu.main]]
-    name = "プロジェクト"
-    url = "/projects"
-    weight = 50
-
-  [[ja.menu.main]]
-    name = "発表文献"
-    url = "/publication"
-    weight = 60
-
-  [[ja.menu.main]]
-    name = "活動報告"
-    url = "/report"
-    weight = 70
-
-  [[ja.menu.main]]
-    name = "アクセス"
-    url = "/access"
-    weight = 80

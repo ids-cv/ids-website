@@ -37,7 +37,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -66,3 +66,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+## Insitute for Datability Science is now D3 Center
+
+As of October 1, 2024, the Institute for Datability Science and the Cybermedia Center have been integrated, and activities have commenced under the D3 Center.
+
+Interdisciplinary research will continue at the D3 Center.
+
+[Click here for more details about the D3 Center](https://www.d3c.osaka-u.ac.jp).
